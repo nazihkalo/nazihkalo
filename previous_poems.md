@@ -35,3 +35,24 @@ Will determine the future for you and me
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### December 23 2022:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Birth of a New Age 
+
+>The dawn of December twenty-two, 
+A revelation in tech, so true 
+The birth of a new age of AI, 
+We all know that it's here to stay 
+
+>No longer will we be alone, 
+For machines are now our own 
+To teach us, to learn, and to grow, 
+What can't be done, AI robots know 
+
+>Indefat
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
