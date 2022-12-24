@@ -5,20 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: The Rise of AI
+>Title: The Emergence of Machine Learning and AI
 
->The world has changed so much since December 23, 2022
-For machine learning and artificial intelligence soon
-Will have surpassed what a human can do
-Bringing a new era of unprecedented potential
+>On December twenty-fourth, twenty-twenty-two,
+We take a look at the future of technology:
+The emergence of machine learning and AI.
 
->The potential of AI is thrilling and vast
-To automate and optimize what used to take days
-It can come up with solutions that no one knew
-And make the impossible, now possible too
+>Robots now do the jobs once done by men,
+From manufacturing to agriculture and more,
+The power and potential of machine learning is immense,
+As AI is advancing and progressing to the fore.
 
->The possibilities are limitless, and the future looks bright
-
+>Data can now be gathered and analyzed so
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
