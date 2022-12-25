@@ -5,18 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: The Emergence of Machine Learning and AI
+>Title: The Future of Machine Learning
 
->On December twenty-fourth, twenty-twenty-two,
-We take a look at the future of technology:
-The emergence of machine learning and AI.
+>On this December 25th of 2022,
+We see a world where AI does the work of two or three.
+The applications of machine learning have now come to be
+A part of our day-to-day lives and of our society.
 
->Robots now do the jobs once done by men,
-From manufacturing to agriculture and more,
-The power and potential of machine learning is immense,
-As AI is advancing and progressing to the fore.
-
->Data can now be gathered and analyzed so
+>From healthcare to finance, from science to industry,
+The advancements in machine learning expand our capacity.
+We no longer have to rely on menial labor or rote
+For automation
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
