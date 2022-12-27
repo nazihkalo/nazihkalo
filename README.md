@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: A Brave New World 
+>Title: Into the Future
 
->December Twenty-Six, Two Thousand Twenty-Two
-A Brave New World where machines are our guide
-Where Artificial Intelligence and Machine Learning reigns supreme
-We're in a new era, of which we can all dream
+>We stand here on the cusp of a new age, 
+On the twenty-seventh of December, two thousand and twenty-two. 
+Artificial intelligence, machine learning and more,
+Are the tools of the future that we must explore.
 
->They help us with tasks, big and small
-Making our lives easier, for one and all
-From data analysis to predictive models
-Machine Learning has proven its worth to all mortals
+>Algorithms and automation, deep learning and more,
+The possibilities are limitless, never before seen before. 
+A new era of technology that will drive us forward,
 
->Artificial Intelligence has the
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
