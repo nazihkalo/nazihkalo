@@ -3,22 +3,24 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
- 
 
->Title: On the Rise
 
->On this day, December 28 2022
-Technology is on the rise 
-Machine learning and AI
-Are pushing boundaries and redefining lives. 
+>Title: AI's Ascension
 
->Computers and robots can do what we can
-From solving difficult equations to helping us plan 
-They can be used for great good or ill will
-The choice is up to us, so what will it be still?
+>It's December 29th, twenty twenty-two
+The rise of AI has come to view
+Once thought of as a distant dream
+Machine Learning rules the streams
 
->Connected devices with powerful brains
-Can get us to places
+>The machines are teaching us each day
+Innovations to enhance our way
+Analyzing data, finding trends
+For future tech, our future depends
+
+>They can identify diseases and cures
+Innovations to open new doors
+From precision farming to robotics
+Advanced AI with
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
