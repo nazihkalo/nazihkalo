@@ -5,22 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: AI's Ascension
+>A Future That We See
 
->It's December 29th, twenty twenty-two
-The rise of AI has come to view
-Once thought of as a distant dream
-Machine Learning rules the streams
+>December 30, 2022, a new world we can view,
+Machine learning, artificial intelligence, what can they do?
 
->The machines are teaching us each day
-Innovations to enhance our way
-Analyzing data, finding trends
-For future tech, our future depends
+>Solving problems, creating solutions, in ways never before seen,
+A new era of intelligence, a future that we can dream.
 
->They can identify diseases and cures
-Innovations to open new doors
-From precision farming to robotics
-Advanced AI with
+>The power of machines, with numbers that can compute,
+The power of their data, it's a power to dispute.
+
+>The potential of AI, so vast and so
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
