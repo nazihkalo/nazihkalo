@@ -203,3 +203,23 @@ Advanced AI with
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### December 31 2022:
+
+<!-- daily_poem starts -->
+
+
+>A Future That We See
+
+>December 30, 2022, a new world we can view,
+Machine learning, artificial intelligence, what can they do?
+
+>Solving problems, creating solutions, in ways never before seen,
+A new era of intelligence, a future that we can dream.
+
+>The power of machines, with numbers that can compute,
+The power of their data, it's a power to dispute.
+
+>The potential of AI, so vast and so
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
