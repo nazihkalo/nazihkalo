@@ -5,18 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Age
+>Title: AI's Potential Dated
 
->On this day, December 31st of 2022,
-The world is a different place, an evolution has been seen,
-A journey to the future, a new age has begun.
+>We stand here in awe, looking to the future,
+At the advancements of AI and machine learning,
+A potential so great and powerful, it can't be measured
+The applications so vast, all of it quite stunning.
 
->Machine learning, artificial intelligence,
-The tech of our lives, ever advancing,
-The world of the future, a new age of efficiency.
-
->Making life easier, in more ways than one,
-From cars to phones, to banking and fun,
+>It's January 1, 2023, and the possibilities are endless
+As AI, ML and automation help us to progress,
+The data compounds everyday, and the algorithms are relentless
+The opportunities are there
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
