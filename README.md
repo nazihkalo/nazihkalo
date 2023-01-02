@@ -5,17 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: AI's Potential Dated
+>Title: Machines of the Future
 
->We stand here in awe, looking to the future,
-At the advancements of AI and machine learning,
-A potential so great and powerful, it can't be measured
-The applications so vast, all of it quite stunning.
+>Once upon a January morn,
+In the year of two thousand and twenty-three,
+Machines of the future were born,
+Their intelligence set free.
 
->It's January 1, 2023, and the possibilities are endless
-As AI, ML and automation help us to progress,
-The data compounds everyday, and the algorithms are relentless
-The opportunities are there
+>Discrete algorithms and data they process,
+Learning and understanding of the world they possess,
+A powerful combination of man and machine,
+A new era of computing is now seen.
+
+>From pattern recognition to problem solving,
+The applications of AI are now evolving
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

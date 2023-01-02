@@ -243,3 +243,22 @@ From cars to phones, to banking and fun,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### January 02 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI's Potential Dated
+
+>We stand here in awe, looking to the future,
+At the advancements of AI and machine learning,
+A potential so great and powerful, it can't be measured
+The applications so vast, all of it quite stunning.
+
+>It's January 1, 2023, and the possibilities are endless
+As AI, ML and automation help us to progress,
+The data compounds everyday, and the algorithms are relentless
+The opportunities are there
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
