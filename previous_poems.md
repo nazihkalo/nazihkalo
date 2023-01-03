@@ -262,3 +262,25 @@ The opportunities are there
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### January 03 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: Machines of the Future
+
+>Once upon a January morn,
+In the year of two thousand and twenty-three,
+Machines of the future were born,
+Their intelligence set free.
+
+>Discrete algorithms and data they process,
+Learning and understanding of the world they possess,
+A powerful combination of man and machine,
+A new era of computing is now seen.
+
+>From pattern recognition to problem solving,
+The applications of AI are now evolving
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

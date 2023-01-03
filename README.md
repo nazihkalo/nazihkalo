@@ -5,20 +5,16 @@
 <!-- daily_poem starts -->
 
 
->Title: Machines of the Future
+>Title: A New Year, A New Era 
 
->Once upon a January morn,
-In the year of two thousand and twenty-three,
-Machines of the future were born,
-Their intelligence set free.
+>It's January third of the year twenty-twenty-three,
+A revolutionary time of AI and machine learning.
+Technology has drastically changed the way we live our lives,
+In ways we could not have imagined at the turn of the century.
 
->Discrete algorithms and data they process,
-Learning and understanding of the world they possess,
-A powerful combination of man and machine,
-A new era of computing is now seen.
-
->From pattern recognition to problem solving,
-The applications of AI are now evolving
+>We now use algorithms to make decisions as a team,
+Our data and machines are what now help us to dream.
+No longer do we have to rely on
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
