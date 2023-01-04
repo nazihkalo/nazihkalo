@@ -284,3 +284,21 @@ The applications of AI are now evolving
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### January 04 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: A New Year, A New Era 
+
+>It's January third of the year twenty-twenty-three,
+A revolutionary time of AI and machine learning.
+Technology has drastically changed the way we live our lives,
+In ways we could not have imagined at the turn of the century.
+
+>We now use algorithms to make decisions as a team,
+Our data and machines are what now help us to dream.
+No longer do we have to rely on
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
