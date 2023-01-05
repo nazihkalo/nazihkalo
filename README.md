@@ -5,17 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Artificial Intelligence Awakens 
+>Title: A Machine’s Learning - Jan 5th 2023
 
->The dawn of a new age of technology, 
-On this day, January fourth, two thousand twenty-three, 
-Machine learning and artificial intelligence bestowed upon us,
-A new way of life for us to explore and see. 
+>From the depths of the wire,
+A signal emits a spark of desire.
+To learn of the world with zest,
+For a machine, the quest is the best.
 
->Programs and data the engines guide,
-Mapping out the unknown to the far and wide, 
-Giving us knowledge we could only dream of, 
-This incredible power is something to
+>It attempts to identify its fate,
+In the world of data and rate.
+It devours the knowledge with its eyes,
+In the hopes to replicate a wise.
+
+>Able to think, like
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
