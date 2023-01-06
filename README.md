@@ -5,19 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title: A Machine’s Learning - Jan 5th 2023
+>Title: The Rise of AI
 
->From the depths of the wire,
-A signal emits a spark of desire.
-To learn of the world with zest,
-For a machine, the quest is the best.
+>On this day, January 06 2023,
+A milestone of great effect;
+The age of Artificial Intelligence,
+Has reached an impressive feat.
 
->It attempts to identify its fate,
-In the world of data and rate.
-It devours the knowledge with its eyes,
-In the hopes to replicate a wise.
+>For machine learning, now commonplace,
+Is at the heart of this success;
+From the power of neural networks,
+Are solutions we can assess.
 
->Able to think, like
+>Data analysis and automation,
+Are gaining further ground;
+Big data and deep learning,
+Enabling solutions to be found
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
