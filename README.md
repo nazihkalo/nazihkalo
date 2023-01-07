@@ -5,22 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: The Rise of AI
+>Title: A Future with AI and ML
 
->On this day, January 06 2023,
-A milestone of great effect;
-The age of Artificial Intelligence,
-Has reached an impressive feat.
+>Today is January, the seventh of two-thousand twenty-three
+A future where AI and ML are seen
 
->For machine learning, now commonplace,
-Is at the heart of this success;
-From the power of neural networks,
-Are solutions we can assess.
+>We no longer have to depend on manual processes and data entry 
+As AI and ML take over, now it's time to set that mental entry
 
->Data analysis and automation,
-Are gaining further ground;
-Big data and deep learning,
-Enabling solutions to be found
+>Algorithms, Models and Networks, they've become the way of life
+No longer are we limited by manual labor and strife
+
+>It's faster
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
