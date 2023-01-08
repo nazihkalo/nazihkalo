@@ -5,18 +5,24 @@
 <!-- daily_poem starts -->
 
 
->Title: A Future with AI and ML
+>"The Future of Machine Learning"
 
->Today is January, the seventh of two-thousand twenty-three
-A future where AI and ML are seen
+>As the world advances, some believe
+"Our future lies in machines"
 
->We no longer have to depend on manual processes and data entry 
-As AI and ML take over, now it's time to set that mental entry
+>For on this day of January 8th 2023
+We've all seen the rise of AI
 
->Algorithms, Models and Networks, they've become the way of life
-No longer are we limited by manual labor and strife
+>From self-driving cars to voice-command tools
+Machine learning has changed the rules
 
->It's faster
+>Computers can now diagnose diseases
+Taking science to new degrees
+
+>We are creating robots that can act and think
+Learning algorithms working in sync
+
+>Our
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
