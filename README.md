@@ -5,24 +5,21 @@
 <!-- daily_poem starts -->
 
 
->"The Future of Machine Learning"
+>Title: "The Age of AI"
 
->As the world advances, some believe
-"Our future lies in machines"
+>In the year twenty-twenty-three,
+Machine learning and AI have taken their place,
+Algorithms to teach,
+Robots to reach,
+In this new digital space.
 
->For on this day of January 8th 2023
-We've all seen the rise of AI
+>We've seen advancements so grand,
+Ahead of what we could plan,
+From voice recognition to self-driving cars,
+Artificial intelligence is the new star.
 
->From self-driving cars to voice-command tools
-Machine learning has changed the rules
-
->Computers can now diagnose diseases
-Taking science to new degrees
-
->We are creating robots that can act and think
-Learning algorithms working in sync
-
->Our
+>From healthcare to finance,
+From transportation to
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

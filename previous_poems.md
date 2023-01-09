@@ -386,3 +386,29 @@ No longer are we limited by manual labor and strife
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### January 09 2023:
+
+<!-- daily_poem starts -->
+
+
+>"The Future of Machine Learning"
+
+>As the world advances, some believe
+"Our future lies in machines"
+
+>For on this day of January 8th 2023
+We've all seen the rise of AI
+
+>From self-driving cars to voice-command tools
+Machine learning has changed the rules
+
+>Computers can now diagnose diseases
+Taking science to new degrees
+
+>We are creating robots that can act and think
+Learning algorithms working in sync
+
+>Our
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
