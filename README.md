@@ -5,21 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: "The Age of AI"
+>Title: "AI, ML, and Me"
 
->In the year twenty-twenty-three,
-Machine learning and AI have taken their place,
-Algorithms to teach,
-Robots to reach,
-In this new digital space.
+>The world has changed, it's true,  
+Since AI and ML came through.  
+They've revolutionized the way we live today  
+And made our lives much more astray. 
 
->We've seen advancements so grand,
-Ahead of what we could plan,
-From voice recognition to self-driving cars,
-Artificial intelligence is the new star.
-
->From healthcare to finance,
-From transportation to
+>January 10, 2023, I remember the date  
+When AI and ML took the global stage.  
+The world changed its tune that day, 
+And we looked at life in a new way.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
