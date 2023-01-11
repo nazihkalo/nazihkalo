@@ -435,3 +435,22 @@ From transportation to
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### January 11 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: "AI, ML, and Me"
+
+>The world has changed, it's true,  
+Since AI and ML came through.  
+They've revolutionized the way we live today  
+And made our lives much more astray. 
+
+>January 10, 2023, I remember the date  
+When AI and ML took the global stage.  
+The world changed its tune that day, 
+And we looked at life in a new way.
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
