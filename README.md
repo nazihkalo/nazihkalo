@@ -5,22 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Into the Future
+>Title: Overarching Vision
 
->As we stand in the year 2023
-We have reached a point of technological perfection
-Where machine learning and artificial intelligence have taken us to the brink
-Where machines can now think
+>In a world of advancing tech,
+Upon January fifteenth two-thousand-twenty-three,
+AI and machine learning will change our lives forever,
+This is the overarching vision that we all must see.
 
->We are at the dawn of a new age
-In which technology can amaze
-Where algorithms can make predictions
-With such precision
+>From automation to robotics,
+We must create a world anew,
+Where machine and man can coexist,
+And artificial intelligence can inform us and guide us through.
 
->We now have machines that can learn
-And with knowledge they can discern
-To make decisions that are wise
-Better than any
+>We can now transform the world around us
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
