@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Overarching Vision
+>
+Title: The Future of AI and ML
 
->In a world of advancing tech,
-Upon January fifteenth two-thousand-twenty-three,
-AI and machine learning will change our lives forever,
-This is the overarching vision that we all must see.
+>Knowledge is everywhere by the time of day
+January 16, 2023, when machines do the same
+Artificial intelligence, machine learning, too
+Powering up the world with all that they can do
 
->From automation to robotics,
-We must create a world anew,
-Where machine and man can coexist,
-And artificial intelligence can inform us and guide us through.
+>Processing information and sending out a reply
+Doing tasks humans can't even try
+Autonomously going where no one has gone
+Algorithms and programs leading the way on
 
->We can now transform the world around us
+>Creating an atmosphere of
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
