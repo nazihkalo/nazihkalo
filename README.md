@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->
-Title: The Future of AI and ML
+>"The Rise of A.I."
 
->Knowledge is everywhere by the time of day
-January 16, 2023, when machines do the same
-Artificial intelligence, machine learning, too
-Powering up the world with all that they can do
+>January 17 2023, a new era begins
+For the world of machine learning and AI
+As the power of technology advances
+The potential of these tools amasses
 
->Processing information and sending out a reply
-Doing tasks humans can't even try
-Autonomously going where no one has gone
-Algorithms and programs leading the way on
+>A new form of intelligence, it's true
+Where algorithms can learn and process anew
+It's up to humans to understand their effect
+And make sure they're used to our benefit
 
->Creating an atmosphere of
+>AI can make decisions and improve on its own
+Creating better models and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
