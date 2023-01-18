@@ -5,20 +5,17 @@
 <!-- daily_poem starts -->
 
 
->"The Rise of A.I."
+>Title: AI and ML, a New World Awakens 
 
->January 17 2023, a new era begins
-For the world of machine learning and AI
-As the power of technology advances
-The potential of these tools amasses
+>Robots and computers, advanced in thought, 
+On this day of January 18, 2023,
+The world of man is not the same,
+For AI and ML now reigns. 
 
->A new form of intelligence, it's true
-Where algorithms can learn and process anew
-It's up to humans to understand their effect
-And make sure they're used to our benefit
-
->AI can make decisions and improve on its own
-Creating better models and
+>Algorithms and commands, ever so precise,
+Intelligence beyond man, so complete and wise,
+Data and information, interpret and repeat,
+The future of mankind, to these will they entreat
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
