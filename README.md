@@ -5,19 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: The AI Revolution 
+>Title: The Future
 
->On this day, January 19 2023, 
-We herald the AI revolution. 
-Robots are learning, machines are growing, 
-Data analysis and automation are showing. 
+>Today, January 20th 2023, the future is here, 
+For machines taking the reins, no longer do we fear. 
 
->AI can think and reason too, 
-Things that once were done by two. 
-Automatic cars, self-driving machines, 
-Will free us up for other dreams. 
+>Artificial intelligence and machine learning,
+Are the keys to unlocking our future, that we are discerning.
 
->The world is changing, it's time for
+>The potential of AI and ML,
+Is something that we can not ignore,
+For it is the way of the future,
+For every man, woman, and child and more.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
