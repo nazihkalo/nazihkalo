@@ -5,18 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future
+>Title: A New Revolution 
 
->Today, January 20th 2023, the future is here, 
-For machines taking the reins, no longer do we fear. 
+>In the year two thousand and twenty three 
+We took a step that changed the scene
+The age of man and the age of machine 
+The revolution of Artificial Intelligence and Machine Learning had just begun 
 
->Artificial intelligence and machine learning,
-Are the keys to unlocking our future, that we are discerning.
+>We witnessed the creation of a powerful force 
+A force that evolved our society of course 
+In fields like healthcare and finance 
+We saw the profound effects of Artificial Intelligence 
 
->The potential of AI and ML,
-Is something that we can not ignore,
-For it is the way of the future,
-For every man, woman, and child and more.
+>The power of data, the power
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
