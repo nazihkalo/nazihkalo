@@ -5,19 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: Our Future of Intelligence 
+>Title:
+"A Brave New World of AI"
 
->In a world of machine learning and AI
-Our lives are growing more and more wise
-We are now, on this day January 22 2023
-Relying on technology with a higher degree
+>In this brave new world of AI,
+On this day January 23 2023,
+We've done what seemed so impossible just a few years ago,
+Advancements in Machine Learning have helped us to grow.
 
->We ask of it to solve our problems so 
-That we can focus on more than what we know
-We trust it to take us to great heights
-In the realm of intelligence, it guides the way with its might
-
->It speaks
+>We've seen robots that can talk to us,
+And AI systems that can help us discuss,
+We can ask them to solve problems and answer our queries,
+And they can learn and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
