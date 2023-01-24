@@ -5,18 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title:
-"A Brave New World of AI"
+>Title: Machine Learning in the Future
 
->In this brave new world of AI,
-On this day January 23 2023,
-We've done what seemed so impossible just a few years ago,
-Advancements in Machine Learning have helped us to grow.
+>It's January 24, 2023, when machines so wise
+Have filled our lives with Artificial Intelligence
+Though there are still some limits, we've come so far
+Machine Learning has revolutionized our world, by the bar
 
->We've seen robots that can talk to us,
-And AI systems that can help us discuss,
-We can ask them to solve problems and answer our queries,
-And they can learn and
+>What used to take days, now only takes a few
+With Machine Learning we can do more than before, that's true
+From predicting weather with accuracy to finding cures for diseases
+Machine Learning has made our
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
