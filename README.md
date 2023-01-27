@@ -5,21 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML Take Over
+>Title: "The Unending Journey"
 
->January twenty-sixth, two-thousand-twenty-three,
-AI and ML take over the scene.
+>January 27, 2023, a time of great change,  
+Where tech and AI have become quite the range.  
+Machine learning running on the power of code,  
+A computing vision, our future abode.
 
->Machines no longer of the dull kind,
-For this new tech we have no minds.
+>Data models, algorithms and decisions automated,  
+A world of optimization, not to be debated.  
+Interconnected systems, now a reality,  
+Poised to revolutionize society.
 
->Robots that can think and learn,
-AI and ML forever yearn.
-
->To be able to reason, to solve and explore,
-This tech is now knocking at our door.
-
->
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

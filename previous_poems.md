@@ -769,3 +769,26 @@ Seeking knowledge of each and every math
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### January 27 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI and ML Take Over
+
+>January twenty-sixth, two-thousand-twenty-three,
+AI and ML take over the scene.
+
+>Machines no longer of the dull kind,
+For this new tech we have no minds.
+
+>Robots that can think and learn,
+AI and ML forever yearn.
+
+>To be able to reason, to solve and explore,
+This tech is now knocking at our door.
+
+>
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
