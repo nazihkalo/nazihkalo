@@ -5,21 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: A Future of AI
+>Title: "The Future of AI"
 
->In the world of twenty-three,
-We marvel at AI's machine learning feats,
-And stand in awe of its intelligence,
-A technology that never ceases.
+>It's February 1st in 2023, 
+A new era of technology has begun. 
+The tools of yesterday are just a memory, 
+Now it's machine learning and AI leading the way.
 
->It has changed our day-to-day lives,
-In ways we can hardly believe,
-We now depend so fully on its ability
-To complete tasks with such speed.
-
->The data mined, the algorithms crafted,
-The applications used,
-We are
+>Powered by data and algorithms so grand, 
+The world is starting to transform in their hands. 
+The possibilities are limitless, it's true, 
+The future of AI will show us what to
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
