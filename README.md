@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: AI's Dream
+>Title:
+The Art of AI on Feb 05 2023
 
->On this day, February fourth, two thousand twenty-three
-We see the dawning of a brand-new machine
-Artificial Intelligence, our new best friend
-A revolution that will never end
+>We marvel at the power of the machine
+That can learn on its own and think so keen
+No longer bound by simple commands
+It can now show us things beyond our plans
 
->Our world is changing, advancing ever more
-As machines learn and study to explore
-No longer led by intuition or thought
-We've given control to machines we have bought
+>The robot can now use its intelligence
+To bring us to a place of excellence
+Giving us answers and solutions to our queries
+For our future, this is a great victory
 
->The power of machine learning, artificial intelligence too
-Will transform our
+>The world has changed since Feb 05 2023
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
