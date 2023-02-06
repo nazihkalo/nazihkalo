@@ -985,3 +985,25 @@ Will transform our
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### February 06 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title:
+The Art of AI on Feb 05 2023
+
+>We marvel at the power of the machine
+That can learn on its own and think so keen
+No longer bound by simple commands
+It can now show us things beyond our plans
+
+>The robot can now use its intelligence
+To bring us to a place of excellence
+Giving us answers and solutions to our queries
+For our future, this is a great victory
+
+>The world has changed since Feb 05 2023
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

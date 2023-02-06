@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title:
-The Art of AI on Feb 05 2023
+>Title: The AI of 2023
 
->We marvel at the power of the machine
-That can learn on its own and think so keen
-No longer bound by simple commands
-It can now show us things beyond our plans
+>Our world in 2023, no longer the same, 
+Machine learning and AI to blame. 
+Robots at our command, computing so fast,
+As we use AI to make life last.
 
->The robot can now use its intelligence
-To bring us to a place of excellence
-Giving us answers and solutions to our queries
-For our future, this is a great victory
+>Data transferred and analyzed, 
+So much more than anyone realizes. 
+Powering our devices, giving us insight,
+Artificial Intelligence more than we might.
 
->The world has changed since Feb 05 2023
+>The possibilities of this new technology, 
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
