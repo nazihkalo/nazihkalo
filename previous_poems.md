@@ -1090,3 +1090,23 @@ While robots
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### February 11 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: "The Future of Automation"
+
+>The future is here, and it's come with a bang,
+On this day, February 10 2023,
+The world of automation is lead by machine learning and AI.
+
+>Voice recognition, algorithms, and robotics too,
+They're the buzzwords of the now,
+Computers are taught to learn and think,
+Just like us, only faster, they can do.
+
+>The power of tech, it
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

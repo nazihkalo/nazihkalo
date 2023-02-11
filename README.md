@@ -5,18 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: "The Future of Automation"
+>Title: AI of the Future
 
->The future is here, and it's come with a bang,
-On this day, February 10 2023,
-The world of automation is lead by machine learning and AI.
+>The future is coming, it's 2023
+Will AI be the tech to be seen?
+It's already here, now off and running
+The wonders of Machine Learning.
 
->Voice recognition, algorithms, and robotics too,
-They're the buzzwords of the now,
-Computers are taught to learn and think,
-Just like us, only faster, they can do.
+>Our gadgets talk, they think, they plan
+To automate life as we know
+Our fridge orders food, our car drives us to the van
+Thanks to Artificial Intelligence's flow.
 
->The power of tech, it
+>The world is changing, the tech advance
+We can now create
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
