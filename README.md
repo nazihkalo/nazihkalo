@@ -5,20 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: AI of the Future
+>Title: A Future of Possibilities
 
->The future is coming, it's 2023
-Will AI be the tech to be seen?
-It's already here, now off and running
-The wonders of Machine Learning.
+>We stand on the brink of a new era so vast,
+On February 12 2023 our tech is unsurpassed.
+Machine learning and AI are ushering us in,
+A future of possibilities we can begin.
 
->Our gadgets talk, they think, they plan
-To automate life as we know
-Our fridge orders food, our car drives us to the van
-Thanks to Artificial Intelligence's flow.
-
->The world is changing, the tech advance
-We can now create
+>Our data is mined, our algorithms grow,
+A new age of knowledge that's sure to bestow.
+Once thought of as fiction, these systems are real,
+We can only imagine the stories they
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
