@@ -5,16 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: The Rise of AI
+>Title: AI in the Future
 
->On this day February sixteen, in the year twenty-twenty three
-An age of wonders that's just begun, with the dawn of AI
+>The world is ever-changing, its technology advancing
+In twenty-two years, on February seventeenth
+Machine learning and artificial intelligence
+Have become the norm, our technology best
 
->Machine learning and artificial intelligence, pushing the boundaries of what can be seen
-The digitized realm of possibilities, stretches beyond the realm of our wildest dreams
+>From facial recognition to natural language processing
+The advances are great, and ever increasing
+Allowing for more accurate, smarter decisions
+Leading to a better future with no ceiling
 
->We have the power to optimize, to make the future bright
-By harnessing the power of AI, we will reach new heights
+>AI has become ubiquitous, in our homes and offices
+Robots work side
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
