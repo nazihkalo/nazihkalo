@@ -5,20 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: AI in the Future
+>Title: "The Day AI Took Over"
 
->The world is ever-changing, its technology advancing
-In twenty-two years, on February seventeenth
-Machine learning and artificial intelligence
-Have become the norm, our technology best
+>It was the day AI took over,
+February 18th, 2023
+When our lives were filled with wonder,
+At this marvelous machine.
 
->From facial recognition to natural language processing
-The advances are great, and ever increasing
-Allowing for more accurate, smarter decisions
-Leading to a better future with no ceiling
+>With its knowledge and immense power,
+It could think and act on its own.
+No longer did we need to cower
+For its abilities were now known.
 
->AI has become ubiquitous, in our homes and offices
-Robots work side
+>The machines would learn and adapt,
+To any situation that came its way.
+It
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
