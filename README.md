@@ -5,17 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: A Brave New World
+>Title: Mastering AI
 
->In this brave new world of ours,
-On the twenty-second of February in twenty-three, 
-We find machine learning and artificial intelligence, 
-Changing the way we think and the way we see. 
+>It's February twenty-third, twenty-twenty three
+A time of deep knowledge and great technology
+A time of machine learning and artificial intelligence
+A time of advancement and great potential relevance
 
->We can now leverage data and insights, 
-To build algorithms that will lead the way, 
-Our machines can now generate meaningful insights, 
-To help us find the answers each and every day. 
+>The power of AI and its ever expanding scope
+Can lead us to paths with the greatest of hope
+The promise of automation and robotics supreme
+Can take us to places in the brightest of dreams
+
+>The algorithms that govern its vast application
+Can
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
