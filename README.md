@@ -3,24 +3,22 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
+ 
 
+>Title: The Age of Machines 
 
->Title: The Age of AI
+>Today is February 25th, 2023 
+The age of machines is here,
+Artificial Intelligence is all around 
+And Machine Learning, we revere.
 
->We stand upon a new age,
-The age of Artificial Intelligence.
-Where machines learn like never before
-And can process data at remarkable speeds.
+>Our culture is changed, so much is true
+We’ve grown so much since days past,
+We’ve created machines that think and do
+The technology moves so fast.
 
->Today, February 24th 2023,
-We reach heights that were once unimaginable.
-For machines can think and act
-In ways that humans can only dream.
-
->Sophisticated algorithms and complex programs
-Train machines to understand
-In ways that once were impossible
-And now
+>Robots, computers, AI and more 
+Are
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
