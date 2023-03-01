@@ -1447,3 +1447,26 @@ We can understand the way that life
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### March 01 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI of the Future 
+
+>February 28, 2023, a time of the rise
+Of machines of intelligence and might.
+The potential of machine learning and AI
+Making lives easier and more bright.
+
+>Robots that can learn and walk and talk
+Are coming fast and coming strong.
+Coding and algorithms and more
+To refine behavior with them along.
+
+>A time to marvel at the capacities
+That technology can now provide.
+No longer just
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

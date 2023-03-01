@@ -5,21 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: AI of the Future 
+>Title: AI and ML Rise
 
->February 28, 2023, a time of the rise
-Of machines of intelligence and might.
-The potential of machine learning and AI
-Making lives easier and more bright.
+>We stand amazed at the tech that's come alive,
+March 01, 2023, AI and ML thrive.
 
->Robots that can learn and walk and talk
-Are coming fast and coming strong.
-Coding and algorithms and more
-To refine behavior with them along.
+>Interpreted data, queries and more,
+Insightful results, we can't ignore.
 
->A time to marvel at the capacities
-That technology can now provide.
-No longer just
+>Transformations done, observations made,
+Its application, on this day, fully displayed.
+
+>Model training and optimization,
+Predictions of a future transformation.
+
+>The power of machine learning and AI,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
