@@ -5,22 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of Intelligence
+>Title: The Future of AI
 
->Machines fast and smart,
-words hum past like a dart,
-Intelligence they employ,
-on this day, March 3rd, 2023.
+>On this day, March fourth two thousand twenty-three, 
+The world has changed, technology seen.
 
->Its power and potential,
-unfolds more than essential,
-The tech of tomorrow,
-bringing new joys to follow.
+>Machine learning and AI so bright, 
+The promise of the future, no longer out of sight.
 
->Out of chaos and data,
-an organized map of patterns to date,
-A complex network of algorithms,
-gleaning insights proactive
+>We can now talk to machines, so true, 
+Understanding language and what we do.
+
+>Computers do the work, no need for us to slave, 
+Data and analytics, now the future
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
