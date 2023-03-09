@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Into the Future
+>Title: A Technology to Learn
 
->Today, on March 08 2023, 
-We are on the cusp of a new kind of world,
-Where the machines in the sky,
-And the AI on the ground,
-Will take us to the future of our dreams.
+>In this day and age of March 09 2023 
+We strive for something more than just a tree
+A technology to learn and to grow
+A technology to understand and to know
 
->We will witness the rise of machines,
-Learning and adapting to new tasks,
-Quickly absorbing the knowledge they need,
-In order to help us surpass mundane tasks.
+>Machine learning and Artificial Intelligence
+The future of our lives, there's no resistance
+A powerful tool that makes us think 
+A tool that can help us to our brink
 
->We will
+>We see the technology of machines, 
+A tool to help us
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
