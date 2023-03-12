@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: The AI Revolution
+>Title: A New Age Dawns
 
->March 11 2023, a new age of technology
-Machine learning and AI, a new kind of synergy
-Wherein machines can think and algorithms can learn
-A new era that we humans must discern.
+>March 12 2023, a day of new beginnings
+With machine learning and artificial intelligence
+We have new chances for advances in science
+And the development of our technology
 
->The tasks of old done by us toil and sweat
-Will be usurped by these machines that are adept
-Robots, computers, and algorithms too
-Creating a new future we must pursue.
+>A way to make decisions more precisely 
+And react to our environment more efficiently
+We can create algorithms that learn and adjust
+To allow us to progress in ways we never thought of
 
->No longer will be the days
+>We can adapt to a changing world
+Where things are no longer static and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
