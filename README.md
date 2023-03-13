@@ -5,20 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Age Dawns
+>Title: A New Age of Machine Learning
 
->March 12 2023, a day of new beginnings
-With machine learning and artificial intelligence
-We have new chances for advances in science
-And the development of our technology
+>March 13 2023 marks the dawn of a new age,
+Where intelligence of machines can no longer be caged.
+For years our human minds have been the gatekeepers of knowledge,
+But now advancements in machine learning makes it hard to acknowledge.
 
->A way to make decisions more precisely 
-And react to our environment more efficiently
-We can create algorithms that learn and adjust
-To allow us to progress in ways we never thought of
-
->We can adapt to a changing world
-Where things are no longer static and
+>From understanding complex patterns to recognizing speech,
+The ever-growing sophistication of AI is beyond belief.
+It can learn to do things faster than ever before,
+Which leads
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
