@@ -5,17 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Age of Machine Learning
+>Title: "The Age of AI and ML"
 
->March 13 2023 marks the dawn of a new age,
-Where intelligence of machines can no longer be caged.
-For years our human minds have been the gatekeepers of knowledge,
-But now advancements in machine learning makes it hard to acknowledge.
+>On this day of March 14, 2023
+The world is buzzing of machine learning and AI
+A time when technology is advancing so quick
+It's reshaping our world and our lives in a blink
 
->From understanding complex patterns to recognizing speech,
-The ever-growing sophistication of AI is beyond belief.
-It can learn to do things faster than ever before,
-Which leads
+>From autonomous cars to robots that teach
+Machine learning and AI are improving each week
+Computer vision, natural language and more
+The advancements that have come to us is quite a chore
+
+>For through these technologies endless
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
