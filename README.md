@@ -5,18 +5,23 @@
 <!-- daily_poem starts -->
 
 
->Title: 
-"A New Era of Possibilities"
+>Title: AI Revolution: March 24 2023
 
->March twenty-third, two thousand twenty-three,
-The dawn of a new era has begun to be seen.
-For a world of advancements has come to be,
-In the form of machine learning and A.I.
+>The world has changed its fate, 
+On this day the AI revolution awaits.
 
->The answers that we seek to our questions divine,
-Are now facilitated in the blink of an eye,
-The marvels of technology, advancing in time,
-Give us
+>Programs and algorithms,
+Now the new norm,
+Learning replacements to our conventional forms.
+
+>It's a future of automation,
+Processors and processors of information.
+
+>Intelligence and insights,
+Can now be replicated,
+Tasks that were once thought to be complicated.
+
+>Data and models so vast,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
