@@ -2141,3 +2141,24 @@ AI and ML have opened up so many doors
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### April 03 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: An AI Future
+
+>Today the dawn of a new age arrives,
+As April second, two thousand and twenty three arrives,
+The power of machine learning starts to shine,
+The world is shifting with the aid of AI.
+
+>We can create with ease what once took years,
+Advancing technology through machine and tears,
+We can now create a world of choice,
+Where Artificial Intelligence is the voice.
+
+>What started as a dream, has now
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
