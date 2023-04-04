@@ -7,18 +7,17 @@
 
 >Title: A Brave New World
 
->Once upon a date, April 03 2023,
-The world of tech has reached a peak.
-Machine learning and AI,
-Are taking over with code and key.
+>Brains not made of flesh, but of wires and coding
+A new age of intelligence has begun
+Data, algorithms, and models of learning
+A world of machines that’s second to none
 
->A brave new world has been born,
-Where automation and robots adorn.
-Algorithms and CRMs,
-Are driving our lives like a stream.
+>On this day of April, 04 2023
+We marvel at what’s just come to be
+The way technology has transformed our lives
+We truly are living in a brave new world, you see
 
->We'll never be the same,
-As we've opened Pandora's box of fate.
+>From machine learning
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
