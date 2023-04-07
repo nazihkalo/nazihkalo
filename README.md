@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->"The New Age of Machine Learning"
+>Title: AI Revolution
 
->We live in a world of technology and AI
-On April 06, 2023, machine learning is the way
-A world of automation, free of human error
-Innovations that are constantly getting better
+>On this date, April 07 2023
+The AI revolution has begun 
+As the machines learn faster than ever before 
+The world is filled with the AI's roar
 
->So much to learn, so much to explore
-The future of machine learning is forevermore
-We can teach machines to do complicated tasks 
-Saving time and energy for the most important tasks
+>No longer do we need to think 
+For the machines can do it in a wink 
+We have given them the intelligence 
+To make the world an AI-filled residence
 
->Artificial intelligence is
+>Deep learning is the new norm 
+With machines that can think and perform 
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
