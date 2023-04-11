@@ -5,17 +5,22 @@
 <!-- daily_poem starts -->
 
 
->"A Future Powered by Machines"
+>Title: 
+The Rise of AI
 
->Today, April 10 2023, we stand on the precipice 
-Of a world where machines are learning to think 
-Where data is used to power intelligence and create models 
-Where each AI decision is more precise than ever before 
+>We stand upon the brink of change,
+On April 11, 2023.
+A new era of technology,
+Algorithms and AI.
 
->Artificial intelligence has come to the fore
-As machines are given the ability to reason
-To detect patterns, automate tasks, and do more 
-It's a new era where machines will
+>Though uncertain what will come to pass,
+We must embrace the now.
+For the face of tech is shifting,
+Machine learning this must allow.
+
+>For the future of the world,
+We must turn to Artificial Intelligence.
+As it pervades our lives,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
