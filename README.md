@@ -5,22 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: 
-The Rise of AI
+>Title: The Rise of the Machines
 
->We stand upon the brink of change,
-On April 11, 2023.
-A new era of technology,
-Algorithms and AI.
+>In the year of twenty-twenty-three,
+Our world was forever changed.
+For something new had come to be,
+A phenomenon strange.
 
->Though uncertain what will come to pass,
-We must embrace the now.
-For the face of tech is shifting,
-Machine learning this must allow.
+>It began with machine learning's ascent,
+And the rise of AI.
+The promise of progress was immense,
+But no one could foresee.
 
->For the future of the world,
-We must turn to Artificial Intelligence.
-As it pervades our lives,
+>We saw the sky filled with robots and drones,
+The streets and the highways too.
+They moved with a
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
