@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: The Age of AI: April 16, 2023
+>Title: AI and ML in the Year 2023
 
->The robots are learning, taking it all in
-Their minds are growing, with no end in sight
-For languages, numbers, and facts they can spin
-This is the age of Artificial Intelligence
+>In the year 2023, the power of AI and ML
+Will be the driving force of many a success story.
+For advances in machine learning and learning algorithms 
+Have paved the way for a whole new reality.
 
->Programs are designing and programs creating
-Making decisions they were never debating
-With algorithms and data, they can make decisions
-Able to solve problems with the right precision
-
->Machine Learning is a wonder to behold
+>Automation processes use smart machines and networks
+To do the tasks that humans can't seem to manage.
+From optimizing supply chains to helping design decisions,
+The possibilities are limitless and grand.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

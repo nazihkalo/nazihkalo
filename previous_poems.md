@@ -2447,3 +2447,24 @@ And computers do calculations with great facility.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### April 17 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Age of AI: April 16, 2023
+
+>The robots are learning, taking it all in
+Their minds are growing, with no end in sight
+For languages, numbers, and facts they can spin
+This is the age of Artificial Intelligence
+
+>Programs are designing and programs creating
+Making decisions they were never debating
+With algorithms and data, they can make decisions
+Able to solve problems with the right precision
+
+>Machine Learning is a wonder to behold
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
