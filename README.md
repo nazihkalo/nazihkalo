@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future is Now
+>Title: AI and ML of 2023
 
->The future is now, a new age has come,
-Machine learning and AI, a new horizon.
-It's April 21st, 2023,
-The world of technology is on a spin.
+>Robots scuttle, algorithms tweet,
+Welcome to today's reality
+On this day, April 22nd 2023,
+Machine Learning and AI have begun.
 
->Data analytics, deep research,
-Alerting us to potential threats.
-Robots and drones, a new era,
-Opening up an exciting frontier.
+>Humans are replaced with robotic minds
+And AI-driven decisions are the new way to find
+The answers, the solutions, and more
+All thanks to the innovative of this era's lore.
 
->A smarter world, computer vision,
-Making the impossible become a decision
+>Data-driven decisions are being made
+And the
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
