@@ -5,21 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: A Brave New World
+>Title: Evolution of AI 
 
->In the future of April 25, 2023
-Where the machines are learning so fast
-Artificial intelligence rules the day
-And machine learning has taken the past
+>On April 26th, 2023, machines are learning fast
+With Artificial Intelligence, our world can't last 
+What was once thought to be unthinkable and futuristic
+Is now commonplace, and quite prolific 
 
->Data is the lifeblood of automation
-And machine learning the key to success
-Algorithms can drive decisions
-For a future that will be less of a guess
+>We now rely on these machines for so many things
+From grocery shopping to booking flights with wings
+AI and ML are the foundation of it all
+Replacing so many jobs, it seems like a freefall 
 
->The power of machines growing each year
-More and more data to analyze
-A brave new world of technology
+>But
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
