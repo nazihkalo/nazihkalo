@@ -3,21 +3,22 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
+ 
 
+>Title: The Dawn of the Machines
 
->Title: Evolution of AI 
+>As April 27 2023 came to be,
+The dawn of the machines was to see.
+A future of automation reigns,
+As learning machines master our brains.
 
->On April 26th, 2023, machines are learning fast
-With Artificial Intelligence, our world can't last 
-What was once thought to be unthinkable and futuristic
-Is now commonplace, and quite prolific 
+>The power of knowledge they can steal,
+And the world with their intelligence they'll heal.
+They learn and analyze the data we give,
+To make our world a better place to live.
 
->We now rely on these machines for so many things
-From grocery shopping to booking flights with wings
-AI and ML are the foundation of it all
-Replacing so many jobs, it seems like a freefall 
+>Machines and algorithms will soon lead,
 
->But
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
