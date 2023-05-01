@@ -2744,3 +2744,25 @@ Advances in technology, future wealth.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 01 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The New Automation 
+
+>It's April 30th 2023, the world is different now
+The introduction of machine learning has changed how
+We do our work, our productivity has grown
+From artificial intelligence that we've known
+
+>Machines learning more and more each day
+Giving us insights we couldn't see before
+The ways of automating everything
+We can see in the world's new core
+
+>Soon now the tasks we find so mundane
+Will be
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

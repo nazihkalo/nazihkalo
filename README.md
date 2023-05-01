@@ -5,20 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The New Automation 
+>Title: AI's Impact
 
->It's April 30th 2023, the world is different now
-The introduction of machine learning has changed how
-We do our work, our productivity has grown
-From artificial intelligence that we've known
+>On this fine day in May,
+When the world is changed in so many ways,
+It's hard not to notice the impact of AI
+As it continues to grow in intelligence and thrive.
 
->Machines learning more and more each day
-Giving us insights we couldn't see before
-The ways of automating everything
-We can see in the world's new core
+>From predicting the weather to driving a car,
+An AI can now do more than humans by far.
+It can identify objects in a single glance
+And far outpace us in a game of chance.
 
->Soon now the tasks we find so mundane
-Will be
+>It can recognize speech and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
