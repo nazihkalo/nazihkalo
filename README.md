@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: AI's Impact
+>Title: Machine Learning and AI - May 02 2023
 
->On this fine day in May,
-When the world is changed in so many ways,
-It's hard not to notice the impact of AI
-As it continues to grow in intelligence and thrive.
+>The future of technology is here, today,
+As we greet this dawn of machine learning and AI.
+From self-driving cars to robots in the sky,
+The progress of the past few years has been no small feat.
 
->From predicting the weather to driving a car,
-An AI can now do more than humans by far.
-It can identify objects in a single glance
-And far outpace us in a game of chance.
-
->It can recognize speech and
+>AI systems can now recognize our facial features,
+Perform complex calculations and the like with great ease.
+No more mundane tasks, no tedious jobs to do,
+Now automation
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
