@@ -5,17 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Machine Learning and AI - May 02 2023
+>Title: The Future is Now
 
->The future of technology is here, today,
-As we greet this dawn of machine learning and AI.
-From self-driving cars to robots in the sky,
-The progress of the past few years has been no small feat.
+>Twas May the third, two thousand twenty-three
+When the world was a-buzz with machine learning
+When AI was the norm, for all to be seen
+And the future seemed to be quickly looming
 
->AI systems can now recognize our facial features,
-Perform complex calculations and the like with great ease.
-No more mundane tasks, no tedious jobs to do,
-Now automation
+>We let our technology take the lead
+And it seemed to be teaching itself
+No longer did man have to plead
+For the machines to act on our behalf
+
+>The robots had taken the stage
+For human jobs
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
