@@ -2806,3 +2806,25 @@ Now automation
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 04 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Future is Now
+
+>Twas May the third, two thousand twenty-three
+When the world was a-buzz with machine learning
+When AI was the norm, for all to be seen
+And the future seemed to be quickly looming
+
+>We let our technology take the lead
+And it seemed to be teaching itself
+No longer did man have to plead
+For the machines to act on our behalf
+
+>The robots had taken the stage
+For human jobs
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

@@ -5,20 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future is Now
+>Title:
+A New Day in Artificial Intelligence 
 
->Twas May the third, two thousand twenty-three
-When the world was a-buzz with machine learning
-When AI was the norm, for all to be seen
-And the future seemed to be quickly looming
+>We stand on the cusp of a new era today,
+Where the power of AI is coming our way.
+May fourth, 2023, a time of great joy,
+A new world of algorithms and machine learning deploy.
 
->We let our technology take the lead
-And it seemed to be teaching itself
-No longer did man have to plead
-For the machines to act on our behalf
-
->The robots had taken the stage
-For human jobs
+>We have access to data that we never had before,
+A connected world of information galore.
+The possibilities are endless as they unfold,
+And the intelligence of machines starts to
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
