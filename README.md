@@ -5,18 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title:
-A New Day in Artificial Intelligence 
+>Title: Technology Taking Over
 
->We stand on the cusp of a new era today,
-Where the power of AI is coming our way.
-May fourth, 2023, a time of great joy,
-A new world of algorithms and machine learning deploy.
+>The world is changing, it's plain to see,
+On this May 5th of 2023
+As machine learning's come to be
+And Artificial Intelligence
 
->We have access to data that we never had before,
-A connected world of information galore.
-The possibilities are endless as they unfold,
-And the intelligence of machines starts to
+>The jobs of the future are not the same
+As they were in the past
+Computers and algorithms now claim
+The job market so fast
+
+>The speed and precision of AI
+Can learn and build so strong
+It almost seems like it's alive
+And it can't
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
