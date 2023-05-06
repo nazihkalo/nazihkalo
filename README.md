@@ -5,22 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Technology Taking Over
+>Title: "The Rise of A.I."
 
->The world is changing, it's plain to see,
-On this May 5th of 2023
-As machine learning's come to be
-And Artificial Intelligence
+>The world of tech, is rapidly advancing,
+A.I. and machine learning, is ever expanding.
 
->The jobs of the future are not the same
-As they were in the past
-Computers and algorithms now claim
-The job market so fast
+>The algorithms, give us the power to see,
+The future of technology, and its possibilities.
 
->The speed and precision of AI
-Can learn and build so strong
-It almost seems like it's alive
-And it can't
+>Today, on May 06 2023,
+A.I. is coming alive and taking the lead.
+
+>The software and hardware, are co-existing and learning,
+The possibilities for A
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
