@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: "The Rise of A.I."
+>"A Future of AI and ML"
 
->The world of tech, is rapidly advancing,
-A.I. and machine learning, is ever expanding.
+>On this day of May seventh, twenty twenty three,
+We witness the rise of technology,
+The age of Machine Learning, Artificial Intelligence,
+It's the future that we're destined to see.
 
->The algorithms, give us the power to see,
-The future of technology, and its possibilities.
+>A world where machines can learn and comprehend,
+Where computers can understand their environment,
+Data scientists and engineers work together to solve,
+Technology evolving, for a better resolve.
 
->Today, on May 06 2023,
-A.I. is coming alive and taking the lead.
+>The possibilities of Artificial Intelligence,
 
->The software and hardware, are co-existing and learning,
-The possibilities for A
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
