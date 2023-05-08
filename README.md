@@ -5,20 +5,25 @@
 <!-- daily_poem starts -->
 
 
->"A Future of AI and ML"
+>Title:
+A New Age of Intelligence
 
->On this day of May seventh, twenty twenty three,
-We witness the rise of technology,
-The age of Machine Learning, Artificial Intelligence,
-It's the future that we're destined to see.
+>A robotic age has come to pass
+On this day, the 8th of May
+Where algorithms and machines
+Have taken over the play.
 
->A world where machines can learn and comprehend,
-Where computers can understand their environment,
-Data scientists and engineers work together to solve,
-Technology evolving, for a better resolve.
+>Gone is manual labor, 
+Replaced by advanced machines
+That learn and adjust
+To our daily scenes.
 
->The possibilities of Artificial Intelligence,
+>An age of machine learning,
+An age of AI,
+Where robotic minds
+Can see, think and try.
 
+>Where data can be analyzed
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
