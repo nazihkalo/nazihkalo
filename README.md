@@ -5,25 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title:
-A New Age of Intelligence
+>Title: The Rise of Machine Learning 
 
->A robotic age has come to pass
-On this day, the 8th of May
-Where algorithms and machines
-Have taken over the play.
+>The power of AI, on May 09 2023,
+A vast and mighty force, so strong and true
+Its knowledge, and its understanding, 
+Will surely outshine the old, and be brand new. 
 
->Gone is manual labor, 
-Replaced by advanced machines
-That learn and adjust
-To our daily scenes.
-
->An age of machine learning,
-An age of AI,
-Where robotic minds
-Can see, think and try.
-
->Where data can be analyzed
+>The machine learning, oh how it will grow,
+Building on data, day after day
+It will soon to lead, and shape our world
+In ways we can’t yet fathom or
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
