@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML: What's In Store
+>Title: The Age of AI
 
->As of this day, May 11 2023, AI and ML reign
-Transforming the way we live, learn, and gain
-The possibilities are vast and ever growing
-And for us all, the future is unknowing
+>In the age of AI, machines learn and grow
+May 12, 2023, ushers in a new era of tech we know
 
->From small devices to grand machinery
-From bots to drones, it's everywhere we see
-From tasks mundane to complex projects
-AI and ML can be our guides and protectors
+>A time of learning, insight, and understanding
+Where computers can think and reason, no more demanding
 
->Now,
+>Now these machines can analyze data and make decisions
+For big data and information, too, they can make revisions
+
+>AI and ML can now aid many humans in work and play
+To solve
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
