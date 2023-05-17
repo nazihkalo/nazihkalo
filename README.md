@@ -5,24 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: The Machine Age
+>Title: AI of the Future
 
->On this day, May 16th 2023, 
-The world has a new awakening
-A transformation of man and machine
-As Artificial Intelligence is taking
+>The future is now, the AI so grand,
+Welcome to May 17, 2023,
+Where machine learning is in demand 
+And the world's gone AI-inspired.
 
->The future of machine learning
-Is forecasted and unknown
-Yet machines are taking charge 
-To our surprise and our groan
+>We have robots and self-driving cars,
+A hundred new things to explore;
+Smart homes that make our lives less hard
+And even AI that's still in store.
 
->Humans and robots working together
-In a new alliance unbound
-Bringing a new age of technology
-With a whole world around
-
->We
+>The possibilities are endless it's true
+From the AI that's
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
