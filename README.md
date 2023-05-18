@@ -5,20 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI of the Future
+>Title: The Future of Technology: A Poem
 
->The future is now, the AI so grand,
-Welcome to May 17, 2023,
-Where machine learning is in demand 
-And the world's gone AI-inspired.
+>We stand in awe of the advances of technology,
+On this day, May 18, 2023.
+Robotics and machine learning,
+Artificial intelligence are seen.
 
->We have robots and self-driving cars,
-A hundred new things to explore;
-Smart homes that make our lives less hard
-And even AI that's still in store.
+>We've come so far in the blink of an eye,
+We've created a whole new world to explore.
+From self-driving cars to smart homes,
+We're on the brink of something more.
 
->The possibilities are endless it's true
-From the AI that's
+>The possibilities of what
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

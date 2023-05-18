@@ -3116,3 +3116,25 @@ With a whole world around
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 18 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI of the Future
+
+>The future is now, the AI so grand,
+Welcome to May 17, 2023,
+Where machine learning is in demand 
+And the world's gone AI-inspired.
+
+>We have robots and self-driving cars,
+A hundred new things to explore;
+Smart homes that make our lives less hard
+And even AI that's still in store.
+
+>The possibilities are endless it's true
+From the AI that's
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
