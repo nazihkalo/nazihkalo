@@ -3,21 +3,20 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
+ 
 
+>Title: "The Age of Automation"
 
->Title: Machine Learning & AI: A New Dawn
+>The age of automation has come to pass,
+The world of technology moves so fast.
+May twentieth, two thousand and twenty-three,
+The robots and machines all live in harmony.
 
->On this day, May 19th 2023,
-The dawn of a new revolution is here,
-The age of machine learning and AI,
-Allowing us to conquer our greatest fears.
+>AI and machine learning, both strong and wise,
+Are the driving forces of the modern enterprise.
+No longer do humans do all the work,
+As robots take over and do the job with a quirk.
 
->Our lives are now run by advances in tech,
-Where algorithms can process data at breakneck speed,
-Our world is now powered by automation,
-That provides us with greater efficiency.
-
->The power of machine learning
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
