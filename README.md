@@ -3,20 +3,20 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
- 
 
->Title: "The Age of Automation"
 
->The age of automation has come to pass,
-The world of technology moves so fast.
-May twentieth, two thousand and twenty-three,
-The robots and machines all live in harmony.
+>Title: Technology of the Future
 
->AI and machine learning, both strong and wise,
-Are the driving forces of the modern enterprise.
-No longer do humans do all the work,
-As robots take over and do the job with a quirk.
+>We stand here in the future, on this day, May 21st, 2023
+Eager to explore new innovations and possibilities,
+Fueled by machine learning and artificial intelligence.
 
+>Robots and machines with a humanlike flair,
+Able to think and communicate with such care.
+Intelligent algorithms, working so fast,
+As they take on tasks that we once had to do in the past.
+
+>Making decisions and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
