@@ -5,18 +5,24 @@
 <!-- daily_poem starts -->
 
 
->Title: Technology of the Future
+>"Robot Revolution"
 
->We stand here in the future, on this day, May 21st, 2023
-Eager to explore new innovations and possibilities,
-Fueled by machine learning and artificial intelligence.
+>It's May 22nd 2023,
+A new age is at our doors,
+Where machine learning
+And artificial intelligence,
+Reigns over a robotic revolution.
 
->Robots and machines with a humanlike flair,
-Able to think and communicate with such care.
-Intelligent algorithms, working so fast,
-As they take on tasks that we once had to do in the past.
+>Programmed to think and reason
+These cyber companions,
+Are built to learn and obey,
+And provide us with a new way.
 
->Making decisions and
+>From intelligent assistants,
+To robotic surgeons,
+Our lives can be improved,
+By these technological verges.
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

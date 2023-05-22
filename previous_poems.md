@@ -3200,3 +3200,23 @@ As robots take over and do the job with a quirk.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 22 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: Technology of the Future
+
+>We stand here in the future, on this day, May 21st, 2023
+Eager to explore new innovations and possibilities,
+Fueled by machine learning and artificial intelligence.
+
+>Robots and machines with a humanlike flair,
+Able to think and communicate with such care.
+Intelligent algorithms, working so fast,
+As they take on tasks that we once had to do in the past.
+
+>Making decisions and
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
