@@ -3220,3 +3220,29 @@ As they take on tasks that we once had to do in the past.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 23 2023:
+
+<!-- daily_poem starts -->
+
+
+>"Robot Revolution"
+
+>It's May 22nd 2023,
+A new age is at our doors,
+Where machine learning
+And artificial intelligence,
+Reigns over a robotic revolution.
+
+>Programmed to think and reason
+These cyber companions,
+Are built to learn and obey,
+And provide us with a new way.
+
+>From intelligent assistants,
+To robotic surgeons,
+Our lives can be improved,
+By these technological verges.
+
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
