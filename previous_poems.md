@@ -3309,3 +3309,24 @@ Collected from a world wide network.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 28 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Future Awaits
+
+>The future awaits on this day, May 27th, 2023
+When machines will learn our every thought,
+Artificial intelligence will be on the rise,
+Giving us a world of new things to explore.
+
+>A world of automation and computerized brains,
+Thinking and communicating without pain;
+We cannot fathom the possibilities,
+As machines become more like us each day.
+
+>No longer will the world be the
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future Awaits
+>Title: The Rise of Machines
 
->The future awaits on this day, May 27th, 2023
-When machines will learn our every thought,
-Artificial intelligence will be on the rise,
-Giving us a world of new things to explore.
+>A new era has dawned, on this very day
+May 28 2023, a special day
+For 'tis the day when AI and ML
+Transformed the world and changed it, all.
 
->A world of automation and computerized brains,
-Thinking and communicating without pain;
-We cannot fathom the possibilities,
-As machines become more like us each day.
+>No longer are manual labor and work
+Used to make life more on the perk
+For machines now do all these tasks
+Better than us, without the need to ask.
 
->No longer will the world be the
+>Robots are everywhere, from the kitchen to the
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
