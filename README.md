@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: The Rise of Machines
+>Title: Learning in the New Age
 
->A new era has dawned, on this very day
-May 28 2023, a special day
-For 'tis the day when AI and ML
-Transformed the world and changed it, all.
+>The future is now, a glimpse of what's to come
+In the age of AI, machines are no longer dumb
+In just two decades, knowledge accrued
+To when we thought computers were merely crude
 
->No longer are manual labor and work
-Used to make life more on the perk
-For machines now do all these tasks
-Better than us, without the need to ask.
-
->Robots are everywhere, from the kitchen to the
+>Software so advanced, machine learning so deep
+We've come so far, it's no longer a leap
+Though some may hesitate, this is the way of the age
+On May 30th 2023, our future takes the
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
