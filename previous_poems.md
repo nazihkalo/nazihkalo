@@ -3351,3 +3351,22 @@ Better than us, without the need to ask.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### May 31 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: Learning in the New Age
+
+>The future is now, a glimpse of what's to come
+In the age of AI, machines are no longer dumb
+In just two decades, knowledge accrued
+To when we thought computers were merely crude
+
+>Software so advanced, machine learning so deep
+We've come so far, it's no longer a leap
+Though some may hesitate, this is the way of the age
+On May 30th 2023, our future takes the
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
