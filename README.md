@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: "Ode to AI and ML on June 01 2023"
+>Title: The Future of AI: June 02, 2023
 
->Today, an automated future awaits us
-Where machines can do the work of many
-Thanks to the powerful forces of AI and ML
-The world has been transformed in many ways
+>The future of AI is now, on this day of June 02
+The complex machines work fast, learning quickly and free
+The experts have tried hard to make the algorithms improve
+And all the hard work is now starting to move.
 
->The progress made in just one day
-Is more than what was done in many years
-On June 01 2023, the impact is felt
-As the power of these technologies is now apparent
-
->We've achieved new
+>From self-driving cars to smart-home systems
+The advances of AI have so much to show
+From voice recognition to facial detection
+The scope of tech today has come
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
