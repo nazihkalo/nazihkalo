@@ -5,17 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of AI: June 02, 2023
+>Title:
+A Poem for Machine Learning and Artificial Intelligence
 
->The future of AI is now, on this day of June 02
-The complex machines work fast, learning quickly and free
-The experts have tried hard to make the algorithms improve
-And all the hard work is now starting to move.
+>It's June 3rd, 2023, and to our surprise
+The world is enriched by machine learning and AI.
+Our lives are changed, we have to admit,
+By the power of technology to do what we can't.
 
->From self-driving cars to smart-home systems
-The advances of AI have so much to show
-From voice recognition to facial detection
-The scope of tech today has come
+>We've gone from searching for an answer in books
+To having our questions answered by a single look.
+We no longer have to wait for a tedious search
+All
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
