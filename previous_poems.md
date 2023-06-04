@@ -3429,3 +3429,23 @@ The scope of tech today has come
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 04 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title:
+A Poem for Machine Learning and Artificial Intelligence
+
+>It's June 3rd, 2023, and to our surprise
+The world is enriched by machine learning and AI.
+Our lives are changed, we have to admit,
+By the power of technology to do what we can't.
+
+>We've gone from searching for an answer in books
+To having our questions answered by a single look.
+We no longer have to wait for a tedious search
+All
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
