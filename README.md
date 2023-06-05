@@ -5,19 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Dawn
+>Title: AI Uprising
 
->It's June 04, 2023, a date to behold,
-A new dawn of tech is here, so behold!
-As machines learn to analyze and think,
-The power of AI and ML, they bring.
+>The days of June 05 2023,
+no longer can we keep up
+with the machine's learning speed,
+they continue to grow and step up.
 
->We can now build systems more robust and smart,
-Programmed to make decisions, just like a heart.
-AI and ML can recognize and detect,
-Helping to bring solutions that are perfect!
+>Artificial intelligence can do things
+in ways we can't comprehend
+They know what we know, and more
+on this we must depend.
 
->From
+>The secrets they can decipher
+with their logic and their wit
+it's no surprise our time has come
+for AI to take
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
