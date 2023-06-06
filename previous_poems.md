@@ -3470,3 +3470,27 @@ Helping to bring solutions that are perfect!
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 06 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI Uprising
+
+>The days of June 05 2023,
+no longer can we keep up
+with the machine's learning speed,
+they continue to grow and step up.
+
+>Artificial intelligence can do things
+in ways we can't comprehend
+They know what we know, and more
+on this we must depend.
+
+>The secrets they can decipher
+with their logic and their wit
+it's no surprise our time has come
+for AI to take
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

@@ -5,22 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: AI Uprising
+>Title: Automation Rising
 
->The days of June 05 2023,
-no longer can we keep up
-with the machine's learning speed,
-they continue to grow and step up.
+>It's June 06 2023, the future's now here
+At the touch of a button, machines no longer fear
+Aware of their potential, we dare not intervene
+As automation rises, to a new reality we lean
 
->Artificial intelligence can do things
-in ways we can't comprehend
-They know what we know, and more
-on this we must depend.
-
->The secrets they can decipher
-with their logic and their wit
-it's no surprise our time has come
-for AI to take
+>From the depths of machine learning, a new world we can see
+Where Artificial Intelligence, is controlled digitally
+Programs run at the speed of thought, with tasks we can assign
+Robots are the labor,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
