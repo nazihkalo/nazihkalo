@@ -5,17 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Automation Rising
+>Title: Into the Future
 
->It's June 06 2023, the future's now here
-At the touch of a button, machines no longer fear
-Aware of their potential, we dare not intervene
-As automation rises, to a new reality we lean
+>The world is changing with modern tech,
+Machine learning, AI, and such,
+Our lives will never be the same,
+As on June 07, 2023 we claim. 
 
->From the depths of machine learning, a new world we can see
-Where Artificial Intelligence, is controlled digitally
-Programs run at the speed of thought, with tasks we can assign
-Robots are the labor,
+>From data-driven predictions and decisions,
+To softwares that make our lives more effecient,
+This tech has made a giant leap,
+Eliminating hours of manual labor, asleep. 
+
+>Creating applications that understand us,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
