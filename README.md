@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: Into the Future
+>Title: Transforming Future - June 8, 2023 
 
->The world is changing with modern tech,
-Machine learning, AI, and such,
-Our lives will never be the same,
-As on June 07, 2023 we claim. 
+>The human race advancing in deep tech, 
+Introducing new tools that no one can rep. 
+Machine learning and artificial intelligence,
+Makes our lives more exciting and intense. 
 
->From data-driven predictions and decisions,
-To softwares that make our lives more effecient,
-This tech has made a giant leap,
-Eliminating hours of manual labor, asleep. 
-
->Creating applications that understand us,
+>Data crunching algorithms that are so smart,
+Analyzing insights to make us more art. 
+Voice commands, facial recognition, and more,
+By June 8, 2023 it will be the norm.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

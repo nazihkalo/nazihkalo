@@ -3513,3 +3513,24 @@ Robots are the labor,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 08 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: Into the Future
+
+>The world is changing with modern tech,
+Machine learning, AI, and such,
+Our lives will never be the same,
+As on June 07, 2023 we claim. 
+
+>From data-driven predictions and decisions,
+To softwares that make our lives more effecient,
+This tech has made a giant leap,
+Eliminating hours of manual labor, asleep. 
+
+>Creating applications that understand us,
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
