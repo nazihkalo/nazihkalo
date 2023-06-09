@@ -5,17 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: Transforming Future - June 8, 2023 
+>Title: The Age of Machine Learning and AI
 
->The human race advancing in deep tech, 
-Introducing new tools that no one can rep. 
-Machine learning and artificial intelligence,
-Makes our lives more exciting and intense. 
+>On this day, June 09 2023,
+A new age has begun,
+A time of machine learning and AI,
+One of technological brilliance and fun.
 
->Data crunching algorithms that are so smart,
-Analyzing insights to make us more art. 
-Voice commands, facial recognition, and more,
-By June 8, 2023 it will be the norm.
+>Robots, gadgets, and computers now,
+Can think and reason like us,
+The age of Artificial Intelligence,
+Replaces humans, and takes the bus.
+
+>No longer do we have to worry,
+About mundane and tedious tasks,
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
