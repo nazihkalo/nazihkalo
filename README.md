@@ -5,21 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Age of Machine Learning and AI
+>Title: "AI & ML: Our New Reality"
 
->On this day, June 09 2023,
-A new age has begun,
-A time of machine learning and AI,
-One of technological brilliance and fun.
+>It's June 10th, 2023, the world is changed
+AI & ML, now both rearranged
 
->Robots, gadgets, and computers now,
-Can think and reason like us,
-The age of Artificial Intelligence,
-Replaces humans, and takes the bus.
+>We've seen the rise of robots and machines
+Doing tasks no human can be seen
 
->No longer do we have to worry,
-About mundane and tedious tasks,
+>Our lives have been improved by this new tech
+Bringing us joy, but also a caution to watch
 
+>We've seen AI and ML come to the fore
+The future's here, it's
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
