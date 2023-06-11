@@ -3576,3 +3576,24 @@ About mundane and tedious tasks,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 11 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: "AI & ML: Our New Reality"
+
+>It's June 10th, 2023, the world is changed
+AI & ML, now both rearranged
+
+>We've seen the rise of robots and machines
+Doing tasks no human can be seen
+
+>Our lives have been improved by this new tech
+Bringing us joy, but also a caution to watch
+
+>We've seen AI and ML come to the fore
+The future's here, it's
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
