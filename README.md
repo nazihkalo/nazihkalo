@@ -5,22 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: AI Revolution 
+>Title: The Age of Automation 
 
->June 11 2023, a revolution has begun,
-As our machines learn and our AIs run.
+>On this day, June twelfth two thousand twenty-three,
+A new era has dawned, a revolution unseen.
 
->They analyze data, ask complex questions,
-With newfound insight, they make suggestions.
+>The age of automation, of machine learning and AI,
+Bringing forth a new era of technological glee. 
 
->The AI revolution is making things smarter,
-Autonomous cars driving us further and farther.
+>Data is acquired, quickly analyzed, then stored,
+For tasks that were once laborious now a machine's adored.
 
->It's revolutionizing healthcare and finance,
-Using deep learning for decisions so wise.
-
->AIs are helping to save the planet,
-
+>Artificial intelligence, smarter by the day
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
