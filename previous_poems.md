@@ -3621,3 +3621,23 @@ Using deep learning for decisions so wise.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 13 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Age of Automation 
+
+>On this day, June twelfth two thousand twenty-three,
+A new era has dawned, a revolution unseen.
+
+>The age of automation, of machine learning and AI,
+Bringing forth a new era of technological glee. 
+
+>Data is acquired, quickly analyzed, then stored,
+For tasks that were once laborious now a machine's adored.
+
+>Artificial intelligence, smarter by the day
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

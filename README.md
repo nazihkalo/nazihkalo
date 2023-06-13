@@ -5,18 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: The Age of Automation 
+>"A New Era of Thinking: June 13 2023"
 
->On this day, June twelfth two thousand twenty-three,
-A new era has dawned, a revolution unseen.
+>Today marks the beginning of a new era,
+Where machine learning and AI will appear.
+Humans are now free to dream and to ponder,
+Let's hope that this new tech doesn't cause us to wander.
 
->The age of automation, of machine learning and AI,
-Bringing forth a new era of technological glee. 
-
->Data is acquired, quickly analyzed, then stored,
-For tasks that were once laborious now a machine's adored.
-
->Artificial intelligence, smarter by the day
+>With the power of artificial intelligence,
+We can now automate and streamline our experience.
+By learning from the data, it can help us to improve,
+Until one day,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
