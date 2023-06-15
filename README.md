@@ -5,21 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of Automation
+>Title: AI in June 2023
 
->On this day, June 14 2023,
-A new age of automation has begun,
-Machine learning and artificial intelligence,
-A perfect match of knowledge and wisdom.
+>AI is coming down the line,
+Upgrading our world with its shine,
+Making life easier than we've ever known,
+We are rapidly moving forward on our own.
 
->Computers and programs that can think
-Robots and machines that can do more than just blink,
-Processing data at lightning speed
-Smart algorithms that anticipate needs.
+>Machines now learn and think on their own,
+Able to make decisions right on the phone,
+Data is the currency for these new models,
+Data points cross the globe like tiny little mobiles.
 
->Automation now takes the wheel
-Garnering insights that once seemed surreal,
-
+>Robotics are now the norm
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
