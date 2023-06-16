@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: AI in June 2023
+>Title: The Future of Machine Learning
 
->AI is coming down the line,
-Upgrading our world with its shine,
-Making life easier than we've ever known,
-We are rapidly moving forward on our own.
+>The future of machine learning's here,
+It's June sixteenth twenty-twenty-three!
+We build smarter AI,
+As the world changes so does technology.
 
->Machines now learn and think on their own,
-Able to make decisions right on the phone,
-Data is the currency for these new models,
-Data points cross the globe like tiny little mobiles.
+>Learning algorithms grow more profound,
+Data and facts so quickly found!
+The human brain can't keep up
+So the machines take on the cup.
 
->Robotics are now the norm
+>We give AI complex tasks,
+Find solutions that no one ever asked!
+The art
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
