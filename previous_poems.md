@@ -3704,3 +3704,26 @@ Data points cross the globe like tiny little mobiles.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 17 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Future of Machine Learning
+
+>The future of machine learning's here,
+It's June sixteenth twenty-twenty-three!
+We build smarter AI,
+As the world changes so does technology.
+
+>Learning algorithms grow more profound,
+Data and facts so quickly found!
+The human brain can't keep up
+So the machines take on the cup.
+
+>We give AI complex tasks,
+Find solutions that no one ever asked!
+The art
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
