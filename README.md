@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: AI Revolution
+>Title: The Age of Automation
 
->Today, the world is a different place,
-June 17, 2023 the date.
-Robots and machines now work with grace,
-Artificial Intelligence is at its peak state.
+>We live in an age of automation,
+On June 18, 2023,
+Where robots and machines are no longer fiction
+But instead, so alive it seems.
 
->AI and Machine Learning are now everywhere,
-From factories to cars, in the air.
-Efficiency, accuracy and speed is what they bring,
-In every industry they are a powerful thing.
+>We're in the age of machine learning,
+Where robots can do our bidding.
+Where artificial intelligence can take over
+And our lives can be fulfilling.
 
->Robotic arms, algorithms, and facial recognition,
+>We use this technology for betterment
+And automation for productivity.
+We'll have more time
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
