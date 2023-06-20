@@ -5,20 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: "A Reality of Tomorrow"
+>Title: The Age of AI
 
->A new era of thought unfurls,
-On this day, June 19, 2023.
-It's a reality of tomorrow,
-A future of machine learning and artificial intelligence. 
+>It's June 20 2023, the age of AI
+Machines that are learning from their environment
+The datas and algorithms that keep them alive
+Able to predict outcomes and trends to arrive.
 
->Where machines can think, create, and innovate,
-Where humans collaborate in harmony and fate.
-Our technology will bridge the gap,
-Providing clarity and understanding from the past.
+>The data's collected, from around the world
+Mined from our phones and computers unfurled
+The insights are stunning, the power immense
+A power of knowledge no one could ever condense.
 
->Where algorithms will automate the mundane,
-
+>The robots are smarter
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
