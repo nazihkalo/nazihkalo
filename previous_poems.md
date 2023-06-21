@@ -3793,3 +3793,24 @@ Providing clarity and understanding from the past.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### June 21 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Age of AI
+
+>It's June 20 2023, the age of AI
+Machines that are learning from their environment
+The datas and algorithms that keep them alive
+Able to predict outcomes and trends to arrive.
+
+>The data's collected, from around the world
+Mined from our phones and computers unfurled
+The insights are stunning, the power immense
+A power of knowledge no one could ever condense.
+
+>The robots are smarter
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

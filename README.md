@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: The Age of AI
+>Title: AI and ML in 2023
 
->It's June 20 2023, the age of AI
-Machines that are learning from their environment
-The datas and algorithms that keep them alive
-Able to predict outcomes and trends to arrive.
+>Robots and computers now so mighty and grand
+Are now learning and growing so quickly in hand
 
->The data's collected, from around the world
-Mined from our phones and computers unfurled
-The insights are stunning, the power immense
-A power of knowledge no one could ever condense.
+>AI and ML are the tools of the day
+The future of technology seems here to stay
 
->The robots are smarter
+>Artificial Intelligence is a tool of the future 
+Using computers to learn and act in such a manner
+
+>Machine Learning allows the machines to adapt
+And make decisions to benefit us and react
+
+>On this day, June 21
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
