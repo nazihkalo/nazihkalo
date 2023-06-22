@@ -5,21 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML in 2023
+>Title: A Time to Engage
 
->Robots and computers now so mighty and grand
-Are now learning and growing so quickly in hand
+>In the year of our Lord, two thousand twenty-three
+We must embrace the future of machine-learning.
+An age where artificial intelligence,
+is the way of life and of work we convene.
 
->AI and ML are the tools of the day
-The future of technology seems here to stay
-
->Artificial Intelligence is a tool of the future 
-Using computers to learn and act in such a manner
-
->Machine Learning allows the machines to adapt
-And make decisions to benefit us and react
-
->On this day, June 21
+>We must learn to engage in the technology,
+for it's the way of the world and our destiny.
+To understand the wonderful potentials it brings,
+let us find ways for its use to the things.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
