@@ -3,21 +3,19 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
- 
 
->Title: Dreaming of Machines 
 
->Dreaming of machines, their power and might 
-On this day, July 01 2023, they continue to ignite 
-Artificial intelligence and machine learning 
-Are technologies that keep on churning 
+>Title: A New Dawn
 
->The possibilities of what they can do 
-Are endless, from algorithms to neural networks too 
-From learning games to reading medical tests 
-These technologies are always the best 
+>In this day and age of July 02 2023,
+We are blessed with AI and machine learning tech.
+It works its magic to the dazzle of all,
+To make our lives easier through its intellect call.
 
->For predictions and forecasts, it
+>It helps us answer questions that have been hard to crack,
+It can even handle tasks that are complex and lack.
+From stock trading to disease diagnosis,
+It's here to help us and won't make us
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
