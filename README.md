@@ -5,22 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Out of the Fog
+>Title: AI, Machine Learning and the Future
 
->Once we were lost in the fog,
-no means of seeing our way
-till machine learning and AI,
-came to our rescue that day.
+>The world today is changing without warning,
+On July 07 2023 it's a tech-filled morning.
 
->July 6, 2023,
-the dawn of a new era
-with the power of technology,
-we can strive for something better.
+>The robots and machines are more than we guessed,
+As Artificial Intelligence is developed and tested.
 
->From pattern recognition,
-to natural language processing
-we can make the world our own
-by harnessing the power of AI and
+>Machine Learning too is a part of the game,
+It's allowing for faster computations to gain.
+
+>AI is no longer a thing of the past,
+As it's being used more in the
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
