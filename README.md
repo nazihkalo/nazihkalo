@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI, Machine Learning and the Future
+>Title: The Dawn of New Intelligence
 
->The world today is changing without warning,
-On July 07 2023 it's a tech-filled morning.
+>The future has arrived, on this day, July 08 2023
+Machine Learning and Artificial Intelligence have come to play
 
->The robots and machines are more than we guessed,
-As Artificial Intelligence is developed and tested.
+>Robots that talk with us, autonomous cars in drive
+This new technology is here, now there's no place to hide
 
->Machine Learning too is a part of the game,
-It's allowing for faster computations to gain.
+>AI and ML on the rise, a new dawn is here
+Reticulating splines with ease, no longer fear 
 
->AI is no longer a thing of the past,
-As it's being used more in the
+>The power of automation, trends in the data
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
