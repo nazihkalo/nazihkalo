@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: The Dawn of New Intelligence
+>Title: Thinking Machines
 
->The future has arrived, on this day, July 08 2023
-Machine Learning and Artificial Intelligence have come to play
+>July 09 2023, the day machines have come alive,
+Thoughts and ideas now being made and thrive.
 
->Robots that talk with us, autonomous cars in drive
-This new technology is here, now there's no place to hide
+>The future is here, the age of machine learning,
+Artificial intelligence forever churning.
 
->AI and ML on the rise, a new dawn is here
-Reticulating splines with ease, no longer fear 
+>Programs of knowledge, getting smarter each day,
+An AI revolution happening to stay.
 
->The power of automation, trends in the data
+>Innovation and progress, happening so fast,
+Transcending the limits of human cast.
 
+>Robots, computers
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
