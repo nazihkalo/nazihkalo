@@ -5,21 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Thinking Machines
+>The Deep Learning Revolution
+July 10, 2023
 
->July 09 2023, the day machines have come alive,
-Thoughts and ideas now being made and thrive.
+>By harnessing artificial intelligence, 
+We alter our fate and our destiny.
+The age of deep learning has begun, 
+And revolutionized the way we think and run.
 
->The future is here, the age of machine learning,
-Artificial intelligence forever churning.
+>We can now create machines that can see,
+And they do more than just imitate and be. 
+They learn the rules and come up with their own, 
+Breakthroughs like this have never been known.
 
->Programs of knowledge, getting smarter each day,
-An AI revolution happening to stay.
-
->Innovation and progress, happening so fast,
-Transcending the limits of human cast.
-
->Robots, computers
+>
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
