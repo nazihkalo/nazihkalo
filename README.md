@@ -5,20 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: Into the Future
+>Title: The AI Race
 
->We are on the brink of progress
-machine learning and AI will progress
-like never before on this day, July 12th 2023
-we’ll advance into the future, the heights we seek
+>The AI race has been on since today
+July 13th, 2023
+Our machines have become smarter they say
+The future is already here.
 
->We’ll be able to create and replicate
-using the power of artificial intelligence
-to craft solutions from mountains of data
-and use machine learning to hone the insights
+>We've trained them to think, and reason too
+To analyze and interpret data
+Their algorithms, so powerful and true
+Are pushing us ever closer to the gate.
 
->It’s a marvel of the modern age
-a
+>They can recognize faces, and predict trends
+Analyze the markets in an instant
+Achievements in robotics and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
