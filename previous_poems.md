@@ -4359,3 +4359,25 @@ From the vast data that they attend,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### July 17 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: Machine Learning and AI in 2023
+
+>Today, machines have surpassed us in so much more 
+Than we could have ever thought of before 
+For on this day, July 16th 2023, 
+We celebrate the growth of AI and Machine Learning
+
+>We marvel at the accomplishments 
+The capabilities of these machines 
+From automated cars to virtual assistants 
+To computers beating humans in chess
+
+>AI is reshaping the way we work 
+
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
