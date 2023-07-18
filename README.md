@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: "A Brave New World"
+>Title: AI and ML: The New World Order 
 
->It's July 17, 2023 and the world is new,
-The power of machine learning and AI is true.
+>The world is changing, no one can deny,
+As AI and ML start to apply
+To everything from data to defense,
+From cars to robots to finance.
 
->We depend on them for almost everything,
-The robots and algorithms are the new king.
+>The power of today's machine learning
+Brings with it a new understanding
+Of how the world works, how to tweak it
+To meet the needs of the people in it.
 
->The phones and tablets are smarter than ever,
-Controlled by AI, they are clever.
-
->We rely on them to make decisions,
-With AI and machine learning, our lives have new visions.
+>Gone are the days of guess and trial,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
