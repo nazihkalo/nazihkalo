@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML: The New World Order 
+>Title: Artificial Intelligence in 2023
 
->The world is changing, no one can deny,
-As AI and ML start to apply
-To everything from data to defense,
-From cars to robots to finance.
+>On this day, July nineteenth, two-thousand twenty-three,
+We marvel at the advances of machine learning and AI.
 
->The power of today's machine learning
-Brings with it a new understanding
-Of how the world works, how to tweak it
-To meet the needs of the people in it.
+>Designers and creators of programs now toil,
+To make our technology more intelligent and useful by the soil.
 
->Gone are the days of guess and trial,
+>Robots, drones, and virtual assistants,
+Are no longer stuck in the past, but are far more present.
+
+>A plethora of tasks are now automated,
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
