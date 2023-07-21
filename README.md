@@ -3,19 +3,22 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
+ 
 
+>Title: "Learning to Adapt"
 
->Title: The Age of Machines 
+>It's July 21, 2023, a new age of technology
+A world of machine learning, artificial intelligence
+How far we have come, so quickly and fast
+We're rewriting the future, at last
 
->We have entered the age of machines, 
-It's July 20, 2023 and we have left our scenes 
-Of old life, replaced by AI and Machine Learning 
-When machines can comprehend our every feeling. 
+>Robotics and algorithms, automating processes
+Analytics driving decisions, driving success
+Data and AI, so misunderstood
+Yet revolutionizing the world, for good
 
->Adaptive digital assistants and robots we can control 
-Have made our life much easier, that's our goal 
-From AI-enhanced manufacturing to autonomous vehicles 
-Our world is a marvel,
+>We can create, automate, learn and adapt
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
