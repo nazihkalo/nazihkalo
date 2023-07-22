@@ -3,22 +3,18 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
- 
 
->Title: "Learning to Adapt"
 
->It's July 21, 2023, a new age of technology
-A world of machine learning, artificial intelligence
-How far we have come, so quickly and fast
-We're rewriting the future, at last
+>"A New Frontier of Ambition"
 
->Robotics and algorithms, automating processes
-Analytics driving decisions, driving success
-Data and AI, so misunderstood
-Yet revolutionizing the world, for good
+>July 22 2023 has seen a rise in machine learning and AI,
+Where data science is the force that will never die.
+From autonomous cars to algorithms that can reason,
+A new frontier of ambition has been unveiled for the season.
 
->We can create, automate, learn and adapt
-
+>Programs built on automation, algorithms and deep learning,
+To decipher complex problems, and to help us keep on churning.
+The possibilities are endless, and the future looks so
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
