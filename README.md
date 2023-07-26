@@ -5,17 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: A Brave New World
+>Title: On Machine Learning and AI 
 
->The world of machines now wields such power,
-July twenty-fifth in the year of our Lord twenty twenty-three,
-That AI and machine learning can do things never seen before.
+>On July twenty-sixth two-thousand twenty-three
+A new world of technology hums and sings
+The great advances of Machine Learning and AI
+Three years ago, a revolution had been set in motion
 
->A brave new world is here, so much faster than before,
-Where machines with intelligence can learn and think no more.
-For humans, it is a puzzle, one that's hard to ignore.
+>Algorithms and models have changed the way we do things
+From helping us better understand our climate and environment
+To predicting the stock market's wild swings 
 
->Forget all that you thought
+>Machine Learning and AI have become so ubiquitous
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
