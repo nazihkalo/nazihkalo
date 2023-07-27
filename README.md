@@ -5,18 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: On Machine Learning and AI 
+>Title: Machine Learning and AI in 2023
 
->On July twenty-sixth two-thousand twenty-three
-A new world of technology hums and sings
-The great advances of Machine Learning and AI
-Three years ago, a revolution had been set in motion
+>The machines of tomorrow are learning today,
+Thanks to advances in AI and ML in July 2023.
+Robots that can think and solve problems with ease,
+Provide solutions to tasks with great expertise.
 
->Algorithms and models have changed the way we do things
-From helping us better understand our climate and environment
-To predicting the stock market's wild swings 
+>Advances in computer vision and natural language,
+Allow machines to become more intelligent.
+A boon to humanity, these advancements strive,
+To make the world a better place to thrive.
 
->Machine Learning and AI have become so ubiquitous
+>We can
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
