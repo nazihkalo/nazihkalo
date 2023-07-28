@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: Machine Learning and AI in 2023
+>
+Title: The Age of AI
 
->The machines of tomorrow are learning today,
-Thanks to advances in AI and ML in July 2023.
-Robots that can think and solve problems with ease,
-Provide solutions to tasks with great expertise.
+>The world has changed so much with AI,
+On this day, July 28 2023
+The future of machine learning is bright,
+A new era so advanced and light.
 
->Advances in computer vision and natural language,
-Allow machines to become more intelligent.
-A boon to humanity, these advancements strive,
-To make the world a better place to thrive.
+>Robots and drones fill the sky,
+Computers and networks so high,
+Artificial Intelligence has come to stay,
+To lead us all to a brighter day.
 
->We can
+>Data and algorithms feed the cloud,
+A global network so vast and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
