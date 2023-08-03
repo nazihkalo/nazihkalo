@@ -5,25 +5,16 @@
 <!-- daily_poem starts -->
 
 
->"Machine Learning and AI"
+>Title: Unveiling of a New Age 
 
->Like a beacon in the night 
-It's August 02 2023,
-Machine Learning and AI
-Have come to our rescue.
+>The future is here, on this day the third of August, 
+The world around us is now undergoing some kind of a thrust. 
+The dawn of a new era has finally begun, 
+An age of artificial intelligence and machine learning, 
+Where robots reign and humans sit in awe, 
+At the sights of what technology can now foresaw. 
 
->They help us to recognize
-The patterns and trends,
-No human ever could
-As only they comprehend.
-
->They can assess data
-From the ground to the sky,
-They can analyze and predict
-As if they had eyes.
-
->They can make the decisions
-In seconds that we
+>A world of data, driven by algorithms
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
