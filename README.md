@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: "The Age of AI"
+>
+Title: The Future of AI 
 
->Today, on this August 10th, 2023
-A new era has begun, one of machine learning
-Where technology is pushing understanding
+>On this day, the eleventh of August, 2023
+The minds of man and machine will meld,
+For AI and ML will together be led. 
 
->Artificial Intelligence has become a norm
-Where decisions are made using algorithms and forms
-Data is collected, analyzed, and put to use
-Revolutionizing the way we learn and produce
+>An age of intelligence and creativity soon will dawn,
+As machines learn and teach and apply what they have learned.
 
->Robots and machines have come to play
-Giving us more time to think and pray
-The progress of
+>A future of technology and endless possibilities,
+Where machines think, predict and analyze to their best abilities.
+
+>Our lives will be
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
