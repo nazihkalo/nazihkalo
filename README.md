@@ -5,20 +5,28 @@
 <!-- daily_poem starts -->
 
 
->
-Title: The Future of AI 
+>The Future is Bright 
 
->On this day, the eleventh of August, 2023
-The minds of man and machine will meld,
-For AI and ML will together be led. 
+>August 12, 2023 
 
->An age of intelligence and creativity soon will dawn,
-As machines learn and teach and apply what they have learned.
+>A future of AI and machine learning
 
->A future of technology and endless possibilities,
-Where machines think, predict and analyze to their best abilities.
+>Is upon us, for which we are yearning
 
->Our lives will be
+>No longer bound by simple commands
+
+>Robots now have the tools to expand
+
+>The technology of tomorrow, today
+
+>Can help us solve all the puzzles we lay
+
+>With computers understanding our needs
+
+>We can achieve great and unimaginable feats
+
+>A world of automation and so much more
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
