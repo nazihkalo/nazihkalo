@@ -5,21 +5,21 @@
 <!-- daily_poem starts -->
 
 
->"The Future is Now"
+>Title:
+The Age of Automation
 
->The future's come, and it's here to stay,
-On this August 17th in 2023
-Machine learning and AI,
-A new world of possibilities unseen.
+>In the year two thousand twenty-three,
+A new era of intelligence was seen.
+With the power of Machine Learning,
+The possibilities seemed ever growing.
 
->The humans now can dream,
-With technology to help them achieve,
-Everything from cars to planes,
-AI can help them with ease.
+>Artificial Intelligence advanced the world,
+The technology seemed like a flag unfurled.
+Programs that mimicked the human brain,
+Had the potential to be quite a gain.
 
->The power of machines,
-Can now create a brand new world,
-Where robots can do most tasks,
+>The task of automation replaced manual labor,
+Equipping humanity with
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
