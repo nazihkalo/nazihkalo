@@ -5,18 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title: 
-The Age of Automated Insight
+>Title: Learning and Adapting
 
->On the nineteenth of August, in the year two-thousand twenty-three,
-The world of machine learning had really come into being.
-From artificial intelligence our lives had been changed,
-As automation and technology had become pre-arranged.
+>Thoughts come and go,
+Slipping through our grasp,
+But what if they were held
+Longer than a single grasp?
 
->The world had been altered through countless algorithms,
-As data was collected from the internet's realms.
-Computer vision and natural language processing,
-Had reshaped the
+>That's where machine learning comes in,
+And artificial intelligence,
+Ours to manipulate and use,
+On this August 20th, 2023.
+
+>The machines have their own sort of mind,
+They can learn and adapt,
+To any problem they're given,
+And that
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
