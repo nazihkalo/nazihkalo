@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: The Dawn of Machine Learning
+>Title: The Rise of AI
 
->It's the dawn of a new age of technology, 
-Where machines learn and think autonomously.
+>As we near the date of August 23 2023,
+We see the rise of Artificial Intelligence
+Machine Learning technologies have made a mark
+As scientists continue to embark
 
->Artificial intelligence and machine learning,
-We're entering a brave new world of understanding.
+>On the path of knowledge and insight
+To uncover new abilities and insight
+The advances they have made are truly incredible
+In a way that is more than simply possible
 
->Where algorithms and data can so easily be seen,
-And machines can learn and think more clearly than ever before.
-
->August 22 2023 is a day to remember,
-For a new age in machine learning we must endeavor
+>The future of AI looks bright and bold
+It has disrupted our lives in ways untold
+The applications
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
