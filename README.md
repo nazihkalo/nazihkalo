@@ -5,21 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: The Rise of AI
+>Title: Into the 21st Century
 
->As we near the date of August 23 2023,
-We see the rise of Artificial Intelligence
-Machine Learning technologies have made a mark
-As scientists continue to embark
+>In the Year of Our Lord, Twenty Twenty Three
+We have seen Artificial Intelligence and Machine Learning soar
+The possibilities of what we can do, have become so much more
 
->On the path of knowledge and insight
-To uncover new abilities and insight
-The advances they have made are truly incredible
-In a way that is more than simply possible
+>We can learn and process data at a much faster speed
+Developing new solutions to the problems we meet
+Creating technology to shape our future, in ways we can't conceive
 
->The future of AI looks bright and bold
-It has disrupted our lives in ways untold
-The applications
+>We have the power to develop new technologies that can help us succeed
+In the
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
