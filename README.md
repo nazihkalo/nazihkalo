@@ -5,16 +5,15 @@
 <!-- daily_poem starts -->
 
 
->Title: Machine Learning and AI in 2023
+>Title: The Future of Technology
 
->It's August 27th, 2023 and the world is abuzz,
-For machine learning and AI have made a great fuss.
-Data, algorithms, and sensors all working together,
-To make our lives easier like never before ever.
+>On this day, August 28 2023, the potential of machine learning and AI has been revealed.
+A brighter future is being revealed, one that’s filled with knowledge and power.
 
->For automation and robotics, the robots are our friends,
-Made to help and assist us in every way, till the end.
-From healthcare to transportation, to even space exploration
+>Machines are becoming smarter every day, with the help of artificial intelligence.
+Computers can make decisions, think, and learn; we’re no longer held down by consequence.
+
+>The world is a better place due to these
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
