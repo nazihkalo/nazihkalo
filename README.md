@@ -5,20 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Era of Learning 
+>Title: AI of the Future
 
->Today, August 30 2023, 
-A new era of learning has begun, 
-Where machines can learn and think like us 
-Innovative and powerful, no fuss.
+>On this day, August thirty-one, twenty-twenty three,
+A great advance in tech, is seen. 
 
->AI and ML are the names, 
-Given to these smart machines, 
-They can solve problems and create solutions, 
-Far beyond our own imaginations.
+>We've entered a new age, of machine learning,
+Where Artificial Intelligence, is now discriminating. 
 
->From healthcare to finance, 
-They are leading the change
+>From sifting through data, to self-driving cars,
+Machine Learning has come so far. 
+
+>Tasks that were once tiresome and mundane,
+Are now done with AI
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
