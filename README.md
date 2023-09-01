@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI of the Future
+>Title: Machine Learning & AI in 2023
 
->On this day, August thirty-one, twenty-twenty three,
-A great advance in tech, is seen. 
+>We live in an age of technology,
+Where computers no longer are a novelty.
+AI and machine learning have become the norm,
+Their capabilities no longer leave us forlorn.
 
->We've entered a new age, of machine learning,
-Where Artificial Intelligence, is now discriminating. 
+>For on this day, September 1st, 2023,
+We have reached a new level of computing ween.
+AI can now recognize patterns,
+And machine learning can predict outcomes.
 
->From sifting through data, to self-driving cars,
-Machine Learning has come so far. 
-
->Tasks that were once tiresome and mundane,
-Are now done with AI
+>We no longer need human labor
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

@@ -5341,3 +5341,24 @@ They are leading the change
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### September 01 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI of the Future
+
+>On this day, August thirty-one, twenty-twenty three,
+A great advance in tech, is seen. 
+
+>We've entered a new age, of machine learning,
+Where Artificial Intelligence, is now discriminating. 
+
+>From sifting through data, to self-driving cars,
+Machine Learning has come so far. 
+
+>Tasks that were once tiresome and mundane,
+Are now done with AI
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
