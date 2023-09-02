@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Machine Learning & AI in 2023
+>Title: AI and ML in 2023
 
->We live in an age of technology,
-Where computers no longer are a novelty.
-AI and machine learning have become the norm,
-Their capabilities no longer leave us forlorn.
+>We've reached a new age of knowledge,
+September second, two thousand twenty-three;
+We've tamed the beast of machine learning
+And used AI to unlock the doors to a new dream.
 
->For on this day, September 1st, 2023,
-We have reached a new level of computing ween.
-AI can now recognize patterns,
-And machine learning can predict outcomes.
+>The power of computing grows ever
+greater;
+Data streams and algorithms all in play.
+Our digital world is ever changing
+As we use AI to lead the way.
 
->We no longer need human labor
+>We're creating smarter, faster
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
