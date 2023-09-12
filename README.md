@@ -5,21 +5,21 @@
 <!-- daily_poem starts -->
 
 
->
-Title:
-The Future of Machine Learning
+>Title: A Brave New World
 
->On this day, September 11 2023,
-The world of machine learning comes alive;
-A future of artificial intelligence
-Where data is the fuel for the drive. 
+>On this day, September 12th, 2023, 
+A brave new world we now behold 
+Where machine learning and AI 
+Have become our guide, ever so bold.
 
->Computers learn faster than ever before,
-Software models predict and explore;
-Giving people answers when they can’t find the key,
-In a world where decisions are so hard to explore.
+>We've let go of many fears 
+As we set technology free 
+It's taught us how to think 
+And to solve complex problems with ease.
 
->Data is the lifeblood of digital
+>The power of data and analytics 
+Are aiding in decisions made 
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
