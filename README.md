@@ -7,19 +7,18 @@
 
 >Title: A Brave New World
 
->On this day, September 12th, 2023, 
-A brave new world we now behold 
-Where machine learning and AI 
-Have become our guide, ever so bold.
+>The world of machine learning and AI,
+A brave new future we now foresee,
+On this day, September 13th 2023,
+We celebrate the power of technology.
 
->We've let go of many fears 
-As we set technology free 
-It's taught us how to think 
-And to solve complex problems with ease.
+>The robots and algorithms we've created,
+Have given us knowledge and insight,
+These advancements in data science,
+Have changed our lives in the blink of an eye.
 
->The power of data and analytics 
-Are aiding in decisions made 
-
+>From computer vision to natural language processing,
+These applications have opened new doors
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
