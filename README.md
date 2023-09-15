@@ -5,21 +5,16 @@
 <!-- daily_poem starts -->
 
 
->Title: Embracing Automation
+>Title: AI is the New Human
 
->In the new age of automation,
-We stand and marvel at the sight;
-A dawn of machine learning and AI,
-It is September 14th, 2023.
+>AI is the new human in a post-September 15th 2023 world,
+Where machines learn, and run like a well-oiled machine unfurled. 
+The future of our work is now automated and done,
+By artificial intelligence, and it's no longer just fun. 
 
->A world of knowledge and advancement,
-Brought forth by computers and tech;
-We've realized the power of automation,
-Nothing can stand in its path.
+>Our cars drive us around and our homes are now smart,
+Computers can do the work faster than a human heart.
 
->The robots of the future,
-Are smarter and more aware;
-Analyzing data
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
