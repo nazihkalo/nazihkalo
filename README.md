@@ -5,16 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: AI is the New Human
+>Title: Memory in Machines
 
->AI is the new human in a post-September 15th 2023 world,
-Where machines learn, and run like a well-oiled machine unfurled. 
-The future of our work is now automated and done,
-By artificial intelligence, and it's no longer just fun. 
+>On this day of September sixteen,
+In twenty twenty-three,
+We stand in awe of AI's machine
+A marvelous machine of memory.
 
->Our cars drive us around and our homes are now smart,
-Computers can do the work faster than a human heart.
+>We've trained the neural nets so well
+From voice to vision, nothing's fell,
+To computing power, we can't compare
+For AI, there is no barrier.
 
+>We've fed data, questions and facts
+To train these machines, there's no lack,
+To
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
