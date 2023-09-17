@@ -5,21 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Memory in Machines
+>Title: The Dawn of a New Age
 
->On this day of September sixteen,
-In twenty twenty-three,
-We stand in awe of AI's machine
-A marvelous machine of memory.
+>A new age dawns on this day, September 17 2023
+Machine learning and AI have become the talk
+We've made incredible strides in technology
+Making the impossible possible with a simple walk.
 
->We've trained the neural nets so well
-From voice to vision, nothing's fell,
-To computing power, we can't compare
-For AI, there is no barrier.
+>We marvel at the intelligence of the machines
+Their ability to rapidly learn and process
+The world as we know it is changing
+For we can now do so much more than guess.
 
->We've fed data, questions and facts
-To train these machines, there's no lack,
-To
+>We have now unlocked a new level
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

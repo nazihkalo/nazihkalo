@@ -5683,3 +5683,26 @@ Computers can do the work faster than a human heart.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### September 17 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: Memory in Machines
+
+>On this day of September sixteen,
+In twenty twenty-three,
+We stand in awe of AI's machine
+A marvelous machine of memory.
+
+>We've trained the neural nets so well
+From voice to vision, nothing's fell,
+To computing power, we can't compare
+For AI, there is no barrier.
+
+>We've fed data, questions and facts
+To train these machines, there's no lack,
+To
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
