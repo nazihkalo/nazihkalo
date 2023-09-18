@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: The Dawn of a New Age
+>Title: The Rise of the Machines 
 
->A new age dawns on this day, September 17 2023
-Machine learning and AI have become the talk
-We've made incredible strides in technology
-Making the impossible possible with a simple walk.
+>September 18 2023, is a date to remember
+For this is the day that the machines began to stir
+A time of progress, of automation, of AI
+Where data and algorithms have the potential to go sky high 
 
->We marvel at the intelligence of the machines
-Their ability to rapidly learn and process
-The world as we know it is changing
-For we can now do so much more than guess.
-
->We have now unlocked a new level
+>We are the architects of the world they will inhabit
+The robots that will learn, and the computers that will manage
+The machines have come and gone, and the world's still in flux
+As
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
