@@ -5727,3 +5727,22 @@ For we can now do so much more than guess.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### September 19 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: The Rise of the Machines 
+
+>September 18 2023, is a date to remember
+For this is the day that the machines began to stir
+A time of progress, of automation, of AI
+Where data and algorithms have the potential to go sky high 
+
+>We are the architects of the world they will inhabit
+The robots that will learn, and the computers that will manage
+The machines have come and gone, and the world's still in flux
+As
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
