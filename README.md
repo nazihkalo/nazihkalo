@@ -3,23 +3,21 @@
 
 ### My Daily Poem
 <!-- daily_poem starts -->
+ 
 
+>"The Future of Machine Learning"
 
->Title: Automation Nation
+>In the year of '23, September the twenty-second day
+We stand in awe of the progress made
+With machine learning and artificial intelligence,
+Humankind is heading in a new direction
 
->A new day dawns with AI so grand,
-September 21, 2023, a new age in hand.
+>Taller walls, greater speed, smarter machines
+Achieving feats no human hand has seen
+Innovations both big and small,
+Allowing us to do more than ever before
 
->We explore the wonders of machine learning,
-The process of automation whirs and churns.
-
->Robots and machines do the work of man,
-As Artificial Intelligence takes center stage in the plan.
-
->The power of tech can no longer be denied,
-For the world of tomorrow has already arrived.
-
->
+>With algorithms so complex and powerful
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
