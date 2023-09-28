@@ -5,19 +5,18 @@
 <!-- daily_poem starts -->
 
 
->Title: AI's Rising Influence 
+>
+Title: The Rise of Machine Learning and AI
 
->It's the dawn of a new era, Sept 27 2023 
-Where technology has become the authority 
-With the advancement of AI and Machine Learning 
-Our reliance on machines is slowly becoming
+>The future is near, it's the 28th of September,
+A day of change, a day to remember.
+For the rise of machine learning and AI,
+A new day dawns, that will never die.
 
->AI is quickly becoming quite commonplace 
-We can now trust it with all the data we face 
-From powering our homes to driving our cars 
-We rely on technology to get us afar
-
->We can now build robots that
+>A new era of knowledge to explore,
+From robotics to data science, and so much more.
+From self-driving cars to automated homes,
+The possibilities are endless and the horizon
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

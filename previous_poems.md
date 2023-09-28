@@ -5925,3 +5925,24 @@ Fusing with automation
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### September 28 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI's Rising Influence 
+
+>It's the dawn of a new era, Sept 27 2023 
+Where technology has become the authority 
+With the advancement of AI and Machine Learning 
+Our reliance on machines is slowly becoming
+
+>AI is quickly becoming quite commonplace 
+We can now trust it with all the data we face 
+From powering our homes to driving our cars 
+We rely on technology to get us afar
+
+>We can now build robots that
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
