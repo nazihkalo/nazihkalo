@@ -5,18 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: "The Future of Machine Learning"
+>Title: Tech-No-Logic
 
->The future of machine learning is coming ever near,
-On this day, September 29, 2023, it will be here.
+>'Twas the 30th of September 2023,
+When technology was so in need
+A new era of machine learning
+And artificial intelligence had just begun to lead.
 
->Computers will take on tasks that were only dreamed of before,
-Artificial intelligence advancing ever more.
+>The algorithms could process data quickly
+And write a thousand lines of code
+In a fraction of the time it took us
+To complete the same heavy load.
 
->Data will be collected and analyzed much faster,
-What might have taken days now completed in a matter.
-
->Innovations will come that no one thought they'd ever see
+>The machines could sort and reason
+And learn even the most complex of tasks
+They
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
