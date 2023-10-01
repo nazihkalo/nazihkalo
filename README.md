@@ -5,21 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Tech-No-Logic
+>"The World of AI - October 1, 2023"
 
->'Twas the 30th of September 2023,
-When technology was so in need
-A new era of machine learning
-And artificial intelligence had just begun to lead.
+>The world of artificial intelligence,
+So advanced, machine learning awaits,
+Transforming our lives, completely new,
+The future's here, it's October 1, 2023.
 
->The algorithms could process data quickly
-And write a thousand lines of code
-In a fraction of the time it took us
-To complete the same heavy load.
+>We take control of the reins,
+Meticulously designing each neural network,
+Making sure it meets human needs,
+The knowledge gained, utmost respect.
 
->The machines could sort and reason
-And learn even the most complex of tasks
-They
+>Computing power, exponentially growing,
+Numbers and data
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
