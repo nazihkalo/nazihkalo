@@ -5,20 +5,17 @@
 <!-- daily_poem starts -->
 
 
->"The World of AI - October 1, 2023"
+>Title: "The Age of Artificial Intelligence" 
 
->The world of artificial intelligence,
-So advanced, machine learning awaits,
-Transforming our lives, completely new,
-The future's here, it's October 1, 2023.
+>Once upon a time computers were dumb,
+But now on October 02 2023 they've come
+To life with the help of machine learning
+Our world will never be the same with this AI churning.
 
->We take control of the reins,
-Meticulously designing each neural network,
-Making sure it meets human needs,
-The knowledge gained, utmost respect.
-
->Computing power, exponentially growing,
-Numbers and data
+>Past generations dreamed of this kind of tech,
+A new level of intelligence, that we could not yet reach.
+With advances such as natural language processing,
+We've been given a gift that keeps on
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
