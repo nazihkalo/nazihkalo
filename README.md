@@ -5,21 +5,24 @@
 <!-- daily_poem starts -->
 
 
->Title: A Brave New World
+>"AI and ML in the Year 2023"
 
->For so long we've been waiting,
-October 03 2023 is our fate
-We continue to innovate,
-Bringing Artificial Intelligence to this brave new world we create.
+>It's been a decade since the machine learning craze
+When computers could quickly analyze
 
->Deeper and deeper we delve,
-As machines learn to think and solve
-Optimizing algorithms and models,
-Our technology continues to evolve.
+>The power of computing grew
+Artificial intelligence too
 
->From facial recognition to driverless cars,
-Machine Learning has come so far
-We can now recognize objects
+>It's October fourth twenty twenty-three
+We ask ourselves, what have we seen?
+
+>Where once stood giants of industry
+Now sits AI in all its glory
+
+>Driving cars and making decisions
+It's come a long, long way
+
+>From where
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
