@@ -5,21 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Machines of the Future
+>Title: Into the Future
 
->Today marks a day of change,
-On October 5th, 2023,
-Machine learning and AI,
-Bring a new reality to be seen.
+>In this world of machine learning and AI, 
+On the sixth of October in 2023, 
+We'll enter a new era of digital dreams,
+As tech continuously strives for supreme.
 
->The power of computers and machines,
-Will break boundaries and routines,
-Forging a path to a new era,
-Where data and intelligence convene.
+>From facial recognition to AI chatbots,
+A digital world of new thoughts and thoughts.
+The rise of robotics, automation too,
+No longer will mankind be in control of what we do.
 
->Pondering possibilities and potential,
-Exploring and discovering new things,
-A future of automation and machines,
+>The future of machine learning is here
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
