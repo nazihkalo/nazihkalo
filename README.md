@@ -5,28 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title:
-The Rise of AI
+>
+Title: Into the Future
 
->Algorithms and code,
-A power that grows,
-The future looks bright
-For Machine Learning and AI.
+>We live in a world of machine learning,
+A place filled with Artificial Intelligence,
+Where we've taken giant leaps beyond our means,
+And the world is as it was in our dreams.
 
->Tools of the trade
-In this digital age,
-Computers can think
-And learn from the stage.
+>We've seen the power of computer systems,
+Turning theory into results and decisions,
+As the technology of today grows by the day,
+An age of automation has come to stay.
 
->Data sets and graphs,
-Patterns are mined,
-Deciphering insights
-In lightning time.
-
->Robots and drones,
-Autonomous cars,
-Revolutionizing the world
-
+>From Google's AI to Apple's
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
