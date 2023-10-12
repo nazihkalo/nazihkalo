@@ -5,19 +5,24 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of Today
+>Title: AI's Reign
 
->On this day, October 11 2023,
-Our dreams are brought to life in the form of machines,
-Ushering in the age of machine learning and A.I.
+>It's October 12th 2023, and AI's reign
+In modern society, they have attain
 
->Robots and computers are granted heightened intelligence,
-Allowing them to think, feel and act like humans in an instant.
+>They have evolved from basic coding
+To complex algorithms of coding
 
->The opportunities this technology offers are truly extraordinary,
-Everything is automated, from driving to grocery shopping and more.
+>They can learn and recognize patterns
+To help us make better decisions
 
->
+>They can process the data from our insights
+To create accurate predictions of our flights
+
+>They can see the future and anticipate
+Using their machine learning, they innovate
+
+>They mimic our emotions and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
