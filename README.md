@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->TITLE: "The Rise of A.I."
+>Title: Machine Learning and AI in 2023
 
->On this day, October 16th, 2023
-A new dawn in technology has begun
-For with the rise of machine learning and A.I.
-The possibilities know no bounds
+>On October seventeenth of 2023,
+Machines were learning in new ways,
+Programmed for every task and all,
+The artificial intelligence was here to stay.
 
->From smart homes to self-driving cars
-These advances are changing the way we live
-It's no longer a world of computers and wires
-But of sophisticated machines and Artificial Intelligence
+>Algorithms created for data science,
+Information was processed at an astounding rate,
+The world was quickly becoming enthralled,
+By the brilliance of machine learning's fate.
 
->From virtual assistants to smart robots
-The
+>It was a new dawn, a new day,
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
