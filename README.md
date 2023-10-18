@@ -5,20 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Machine Learning and AI in 2023
+>"Machine Learning and AI"
 
->On October seventeenth of 2023,
-Machines were learning in new ways,
-Programmed for every task and all,
-The artificial intelligence was here to stay.
+>On October 18 2023, a new world was born
+A world of machines that could learn and discern
+The power of AI, and the possibilities,
+Forever changed the way we live our lives.
 
->Algorithms created for data science,
-Information was processed at an astounding rate,
-The world was quickly becoming enthralled,
-By the brilliance of machine learning's fate.
+>We've unlocked the secrets of machine learning
+To make sure our future is ever-strengthening
+We can now unlock the data from within
+And with this knowledge, we can push ahead and win.
 
->It was a new dawn, a new day,
-
+>It's
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
