@@ -5,19 +5,18 @@
 <!-- daily_poem starts -->
 
 
->"Machine Learning and AI"
+>"Robo-Revolution"
 
->On October 18 2023, a new world was born
-A world of machines that could learn and discern
-The power of AI, and the possibilities,
-Forever changed the way we live our lives.
+>It's October 19, 2023, a new age has begun.
+Robots and machines with us, our lives are intertwined.
 
->We've unlocked the secrets of machine learning
-To make sure our future is ever-strengthening
-We can now unlock the data from within
-And with this knowledge, we can push ahead and win.
+>Artificial intelligence, they do things we can't.
+Learning and processing, they are tech's front-line cant.
 
->It's
+>Machine learning and analytics, they can simulate our brains.
+From the mundane to the magical, they have data to explain.
+
+>The robo-revolution, they
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
