@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->title: "AI vs ML: A Poem for October 22, 2023"
+>Title: AI and Machine Learning, 2023
 
->The AI and ML stand side-by-side,
-Leading us into a brave new tide.
+>The world's advanced, the future's close,
+It's October 23rd, 2023
+The technology we've created,
+A global rise is to be seen.
 
->One has the power to automate,
-The other can mystify our fate.
+>The machines have taken over, 
+We've produced a new society.
+The Artificial Intelligence,
+It can learn, think and be free.
 
->One is a powerful force of data,
-The other a mind so acute and great.
-
->With both of these tools, the future's bright,
-On October 22, 2023
+>And with the power of Machine Learning
+The possibilities are grand.
+The world is being
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
