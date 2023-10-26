@@ -5,20 +5,24 @@
 <!-- daily_poem starts -->
 
 
->Title: A Brave New World
+>"The Human Race and Machine Learning"
 
->It's October 25, 2023, when robots reign
-And machines have taken the reins,
-When Artificial Intelligence wields the power
-That will shape the days to come.
+>We are on October 26, 2023,
+A date that will surely mark
+The time that humans have chosen
+To embrace machine learning and AI.
 
->The robots have learned to think and act
-With minds that know far more than ours,
-And they can do calculations that overwhelm
-With unprecedented speed and force.
+>These programs are more accurate
+Than ever before,
+And the knowledge they possess
+Can help us move to so much more.
 
->Machine learning has made progress so great
-That for now, their reign is secure,
+>The potential of machine learning
+Is now understood,
+And the human race will benefit
+For the greater good.
+
+>More
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
