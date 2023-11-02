@@ -5,18 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Dawn of a New Age
+>"The Future is Now"
 
->Today is November 1st, 2023
-Welcome to a world of machine learning and AI
-Where technology is all around us, and we never shy
-From the wonders of what technology has done in our days
-The electronic advancements that have come to stay
+>November two, two thousand twenty-three,
+We marvel at the tech that's seen,
+Machine learning and Artificial Intelligence
+Our lives, they are now changed, this is no surprise.
 
->An automated machine that can think for itself
-An AI system that can learn and delve
-Into the depths of data and make sense of it all
-To find solutions for
+>No longer have to think or toil,
+Our machines can now handle the daily toil,
+Our lives are much easier in every single way,
+Thanks to machine learning and AI.
+
+>We've come so far, yet so
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
