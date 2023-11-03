@@ -6719,3 +6719,24 @@ To find solutions for
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 03 2023:
+
+<!-- daily_poem starts -->
+
+
+>"The Future is Now"
+
+>November two, two thousand twenty-three,
+We marvel at the tech that's seen,
+Machine learning and Artificial Intelligence
+Our lives, they are now changed, this is no surprise.
+
+>No longer have to think or toil,
+Our machines can now handle the daily toil,
+Our lives are much easier in every single way,
+Thanks to machine learning and AI.
+
+>We've come so far, yet so
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
