@@ -5,17 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: "The Age of AI - Nov. 04, 2023"
+>Title: The Future of AI
 
->We stand at the dawn of a new age,
-Where machines can learn and think on their own.
-The power of AI, it can't be assuaged,
-For the future lies in tech we have known.
+>We look to the future on this day, November 5th of 2023
+So much we will learn with intelligence made by machines
+Though with caution, we'll take in all that new knowledge
+It's sure to be a learning curve with AI's edge
 
->Robots and computers, they aren't the same,
-For machines can learn and make decisions.
-November fourth, twenty twenty-three,
-The machine learning
+>Gazing into the unknown, where computers are the norm 
+No longer are robots just man-made forms
+Machine learning brings the promise of a new era in thought
+Where
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

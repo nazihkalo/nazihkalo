@@ -6763,3 +6763,22 @@ Our future is no longer so far.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 05 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: "The Age of AI - Nov. 04, 2023"
+
+>We stand at the dawn of a new age,
+Where machines can learn and think on their own.
+The power of AI, it can't be assuaged,
+For the future lies in tech we have known.
+
+>Robots and computers, they aren't the same,
+For machines can learn and make decisions.
+November fourth, twenty twenty-three,
+The machine learning
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
