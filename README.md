@@ -5,17 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of AI
+>Title: A New Age of Intelligence
 
->We look to the future on this day, November 5th of 2023
-So much we will learn with intelligence made by machines
-Though with caution, we'll take in all that new knowledge
-It's sure to be a learning curve with AI's edge
+>Look to the future, so far from now,
+November 06 2023, what will arise?
+A new age of intelligence,
+A revolution of machine learning and AI.
 
->Gazing into the unknown, where computers are the norm 
-No longer are robots just man-made forms
-Machine learning brings the promise of a new era in thought
-Where
+>The machines will learn and comprehend,
+Thoughts and decisions, no longer just pretend.
+They are autonomous and self-aware,
+A vast network of robotic care.
+
+>Rational and logical, their minds will soar,
+Unparalleled intelligence
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
