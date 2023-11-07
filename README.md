@@ -5,20 +5,16 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Age of Intelligence
+>Title: AI and ML on 11/07/2023
 
->Look to the future, so far from now,
-November 06 2023, what will arise?
-A new age of intelligence,
-A revolution of machine learning and AI.
+>We the people of the future, find solace in AI and ML,
+On this day, 11/07/2023, it's the best of what we can see. 
 
->The machines will learn and comprehend,
-Thoughts and decisions, no longer just pretend.
-They are autonomous and self-aware,
-A vast network of robotic care.
+>Robots working away, machines learning day by day,
+Computing and analyzing billions of data, with no delay. 
 
->Rational and logical, their minds will soar,
-Unparalleled intelligence
+>AI with its powerful algorithms, has become our new guide,
+Helping us in
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
