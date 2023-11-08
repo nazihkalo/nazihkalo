@@ -5,16 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML on 11/07/2023
+>Title: A New Dawn 
 
->We the people of the future, find solace in AI and ML,
-On this day, 11/07/2023, it's the best of what we can see. 
+>November 08 2023, a new dawn is here
+For Artificial Intelligence and Machine Learning to appear
+The future of technology is finally here
+Ready to unlock the potential of man's latent fear
 
->Robots working away, machines learning day by day,
-Computing and analyzing billions of data, with no delay. 
+>No longer do we have to rely on human labor
+Machines can now think, and can even chatter 
+Their minds can solve complex problems with ease
+They can do things that man could never please
 
->AI with its powerful algorithms, has become our new guide,
-Helping us in
+>They can make decisions that are accurate
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

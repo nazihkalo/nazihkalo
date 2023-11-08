@@ -6823,3 +6823,21 @@ Unparalleled intelligence
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 08 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI and ML on 11/07/2023
+
+>We the people of the future, find solace in AI and ML,
+On this day, 11/07/2023, it's the best of what we can see. 
+
+>Robots working away, machines learning day by day,
+Computing and analyzing billions of data, with no delay. 
+
+>AI with its powerful algorithms, has become our new guide,
+Helping us in
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
