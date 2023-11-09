@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Dawn 
+>Title: The Future of AI
 
->November 08 2023, a new dawn is here
-For Artificial Intelligence and Machine Learning to appear
-The future of technology is finally here
-Ready to unlock the potential of man's latent fear
+>The world is spinning faster and the changes never cease,
+November ninth in the year of twenty twenty-three,
+Artificial Intelligence and Machine Learning,
+Comes to offer us a future so ever keen.
 
->No longer do we have to rely on human labor
-Machines can now think, and can even chatter 
-Their minds can solve complex problems with ease
-They can do things that man could never please
+>We turn to technology to evolve the way,
+That we interact with the world every day,
+Data arrays and algorithms to sort,
+Analyze and execute without a thought.
 
->They can make decisions that are accurate
+>The possibilities of AI ever expanding,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
