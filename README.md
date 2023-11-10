@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of AI
+>Title:
 
->The world is spinning faster and the changes never cease,
-November ninth in the year of twenty twenty-three,
-Artificial Intelligence and Machine Learning,
-Comes to offer us a future so ever keen.
+>The Age Of Machine Learning
 
->We turn to technology to evolve the way,
-That we interact with the world every day,
-Data arrays and algorithms to sort,
-Analyze and execute without a thought.
+>On this day, November 10 2023,
+We celebrate the rise of AI and ML,
+A world now changed to our tech-savvy hearts' content,
+Since the dawn of the age of machine learning.
 
->The possibilities of AI ever expanding,
+>We've seen computers become smarter and more aware,
+Tasks that were once mundane, now automated with care.
+Algorithms, neural networks, and the like,
+Have made our lives
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
