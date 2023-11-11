@@ -5,19 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title:
+>Title: Automating Our World
 
->The Age Of Machine Learning
+>November 11, 2023
+Algorithm advances, the world's spinning
+Artificial Intelligence is winning
+Making our lives more efficient
+The power of machine learning is evident
 
->On this day, November 10 2023,
-We celebrate the rise of AI and ML,
-A world now changed to our tech-savvy hearts' content,
-Since the dawn of the age of machine learning.
+>Big data crunching, neural networks too
+Complex computations, what humans can do?
+To automate our world, we must rely
+On programming and AI to get us by
 
->We've seen computers become smarter and more aware,
-Tasks that were once mundane, now automated with care.
-Algorithms, neural networks, and the like,
-Have made our lives
+>Time-saving applications, robots too
+This technology has all come true
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
