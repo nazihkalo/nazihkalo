@@ -5,22 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Automating Our World
+>Title: 
+The Art of Automation
 
->November 11, 2023
-Algorithm advances, the world's spinning
-Artificial Intelligence is winning
-Making our lives more efficient
-The power of machine learning is evident
+>The world has changed so much on this day,
+November 12 2023, so far away
+From just a few years back,
+When automation was just a knack.
 
->Big data crunching, neural networks too
-Complex computations, what humans can do?
-To automate our world, we must rely
-On programming and AI to get us by
+>Machine learning, artificial intelligence,
+Have transformed our lives with such resilience,
+We create machines to make our lives easier,
+And we've seen some big changes, that is for sure.
 
->Time-saving applications, robots too
-This technology has all come true
-
+>We give power to the machines we create,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
