@@ -6928,3 +6928,25 @@ This technology has all come true
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 13 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: 
+The Art of Automation
+
+>The world has changed so much on this day,
+November 12 2023, so far away
+From just a few years back,
+When automation was just a knack.
+
+>Machine learning, artificial intelligence,
+Have transformed our lives with such resilience,
+We create machines to make our lives easier,
+And we've seen some big changes, that is for sure.
+
+>We give power to the machines we create,
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
