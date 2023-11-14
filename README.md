@@ -6,21 +6,19 @@
 
 
 >Title:
-"The Future of AI"
+"A New Age of Automation"
 
->The future of AI has just arrived
-A new age of artificial intelligence
-Coding algorithms and machine learning
-The reign of computers has commenced
+>As machines start to think with a mind,
+Artificial intelligence of a different kind.
+On this day of November 14th, 2023,
+We watch innovation unfold with a gleam.
 
->On this day, November 13 2023
-We welcome our new robotic friends
-Data crunching, calculations so fast
-It's beyond what we humans can comprehend
+>Machine learning takes us to a new place,
+Where technology has the ability to define the human race.
+Coding and algorithms keep us on our toes,
+Making sure artificial intelligence really knows.
 
->We feed them massive amounts of data
-To run simulations and learn from their mistakes
-Programming more efficient and intelligent
+>The
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

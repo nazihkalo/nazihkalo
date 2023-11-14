@@ -6950,3 +6950,27 @@ And we've seen some big changes, that is for sure.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 14 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title:
+"The Future of AI"
+
+>The future of AI has just arrived
+A new age of artificial intelligence
+Coding algorithms and machine learning
+The reign of computers has commenced
+
+>On this day, November 13 2023
+We welcome our new robotic friends
+Data crunching, calculations so fast
+It's beyond what we humans can comprehend
+
+>We feed them massive amounts of data
+To run simulations and learn from their mistakes
+Programming more efficient and intelligent
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
