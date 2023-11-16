@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: "Into the Future"
+>Title: The Evolution of Technology 
 
->On this day, November 15th 2023, 
-We explore a world of advanced tech. 
-Artificial intelligence and machine learning, 
-Modern developments that never cease churning. 
+>We take a look around, 
+At the world that we have found. 
+November Sixteen, Twenty Twenty Three, 
+A technological evolution we have seen. 
 
->We can revolutionize our world this way, 
-With tools so new, and yet so old. 
-Analyzing data and making decisions, 
-For a future of progress, its our mission. 
+>From Machines Learning, to Artificial Intelligence, 
+We have come a long way with no resistance. 
+Deep Learning, Neural Networks, 
+We have made great technological advances. 
 
->So
+>Computer Vision, Automated Speech, 
+The possibilities
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
