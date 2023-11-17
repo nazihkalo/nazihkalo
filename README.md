@@ -5,20 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: The Evolution of Technology 
+>Title: The Rise of Artificial Intelligence
 
->We take a look around, 
-At the world that we have found. 
-November Sixteen, Twenty Twenty Three, 
-A technological evolution we have seen. 
+>November 17, 2023, is when the robots began to rise,
+With the power of machine learning to recognize.
+Their speed and accuracy was unrivaled and precise,
+Until Artificial Intelligence had begun to take its place.
 
->From Machines Learning, to Artificial Intelligence, 
-We have come a long way with no resistance. 
-Deep Learning, Neural Networks, 
-We have made great technological advances. 
-
->Computer Vision, Automated Speech, 
-The possibilities
+>It processed data faster than any other race,
+It created algorithms to analyze and trace,
+From the largest companies to the poorest of homes,
+AI had become the backbone of life to roam.
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
