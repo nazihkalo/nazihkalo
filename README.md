@@ -5,17 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: The Rise of Artificial Intelligence
+>Title: "AI Inventions" 
 
->November 17, 2023, is when the robots began to rise,
-With the power of machine learning to recognize.
-Their speed and accuracy was unrivaled and precise,
-Until Artificial Intelligence had begun to take its place.
+>On this day, November 18, 2023 
+AI has come to be a true boon
+Artificial intelligence and machine learning 
+Have become an intricate part of our lives soon
 
->It processed data faster than any other race,
-It created algorithms to analyze and trace,
-From the largest companies to the poorest of homes,
-AI had become the backbone of life to roam.
+>Robots doing our work and mindless tasks
+The world is changing with AI advances
+We now depend on these inventions
+To bridge the gaps in old advances
+
+>We have gained a new perspective
+On how to use tech in our lives
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
