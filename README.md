@@ -5,21 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: "AI Inventions" 
+>"The Future of AI" 
 
->On this day, November 18, 2023 
-AI has come to be a true boon
-Artificial intelligence and machine learning 
-Have become an intricate part of our lives soon
+>The world is ever changing, so much tech and science,
+Machines that can learn, the possibilities immense! 
+Today, November 19 2023, a new day dawns anew,
+Technology is advancing, Artificial Intelligence too. 
 
->Robots doing our work and mindless tasks
-The world is changing with AI advances
-We now depend on these inventions
-To bridge the gaps in old advances
-
->We have gained a new perspective
-On how to use tech in our lives
-
+>From deep learning systems, to robotics and drones,
+From chatbots that talk, to medical breakthroughs and clones.
+AI is advancing, and quickly on its way,
+Taking over
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
