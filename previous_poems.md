@@ -7081,3 +7081,22 @@ On how to use tech in our lives
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 20 2023:
+
+<!-- daily_poem starts -->
+
+
+>"The Future of AI" 
+
+>The world is ever changing, so much tech and science,
+Machines that can learn, the possibilities immense! 
+Today, November 19 2023, a new day dawns anew,
+Technology is advancing, Artificial Intelligence too. 
+
+>From deep learning systems, to robotics and drones,
+From chatbots that talk, to medical breakthroughs and clones.
+AI is advancing, and quickly on its way,
+Taking over
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+

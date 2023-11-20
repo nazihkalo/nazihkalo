@@ -5,17 +5,20 @@
 <!-- daily_poem starts -->
 
 
->"The Future of AI" 
+>Title: Machine Learning in the Year 2023
 
->The world is ever changing, so much tech and science,
-Machines that can learn, the possibilities immense! 
-Today, November 19 2023, a new day dawns anew,
-Technology is advancing, Artificial Intelligence too. 
+>In twenty-twenty-three, machine learning has become a reality
+For those with the massive computational capacity
+To accurately analyze huge amounts of data
+And provide solutions at lightning speed
 
->From deep learning systems, to robotics and drones,
-From chatbots that talk, to medical breakthroughs and clones.
-AI is advancing, and quickly on its way,
-Taking over
+>Artificial intelligence can take on complex tasks
+For businesses to make the most efficient asks
+Unlock insights that may have been missed
+Insight that may have been dismissed
+
+>Machine learning has come a long way
+From a concept in
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
