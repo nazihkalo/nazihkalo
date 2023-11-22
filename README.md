@@ -5,18 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Dawn 
+>Title: The Future of Machine Learning 
 
->On this day, November 21, 2023
-We stand on the edge of a new dawn
-Machine Learning and Artificial Intelligence are here
-To give us a better tomorrow, as our fates they steer
+>In the year two-thousand twenty-three 
+Machine Learning and AI will be seen 
+To be advancing our world in leaps and bounds 
+As technology's power is now profound 
 
->We mustn't be afraid of what we don't understand
-Though it may seem complicated, it's not that hard
-We can trust our technology to help us make the right decisions
-So long as we always remain on guard
+>Our lives will be ever more automated 
+With robots and machines that are created 
+To help us with tasks and take the load off 
+Making our lives easier as we scoff 
 
+>A world of convenience and luxury
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
