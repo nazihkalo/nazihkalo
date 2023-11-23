@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of Machine Learning 
+>The Rise of the Machines 
+November 23, 2023
 
->In the year two-thousand twenty-three 
-Machine Learning and AI will be seen 
-To be advancing our world in leaps and bounds 
-As technology's power is now profound 
+>We stand on the edge, of a machine-filled future 
+Where Artificial Intelligence and Machine Learning 
+Lead us down a path that few could ever fathom 
 
->Our lives will be ever more automated 
-With robots and machines that are created 
-To help us with tasks and take the load off 
-Making our lives easier as we scoff 
+>A world where technology takes control of our lives 
+Learning algorithms to drive our decisions and choices 
+Data mining and automation our way through strife 
 
->A world of convenience and luxury
+>A new age of technology, an era of newness 
+Robots tending
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
