@@ -7163,3 +7163,24 @@ Making our lives easier as we scoff
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 24 2023:
+
+<!-- daily_poem starts -->
+
+
+>The Rise of the Machines 
+November 23, 2023
+
+>We stand on the edge, of a machine-filled future 
+Where Artificial Intelligence and Machine Learning 
+Lead us down a path that few could ever fathom 
+
+>A world where technology takes control of our lives 
+Learning algorithms to drive our decisions and choices 
+Data mining and automation our way through strife 
+
+>A new age of technology, an era of newness 
+Robots tending
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
