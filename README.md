@@ -5,18 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title:
-"A Brave New World of AI"
+>Title: AI and ML, 2023
 
->A Brave New World of AI, a day we now foresee
-Where machines can learn and think, a future of grandeur and glee.
+>We live in a world of AI and ML:
+Two technologies that set us free,
+From mundane tasks and manual toil,
+Giving us time for discovery.
 
->Computers that can autonomously process and adapt
-With artificial intelligence, we've seen what technology has had.
+>Our lives are shaped by this tech today,
+November 25, 2023, what a display!
+The power of AI, we can't deny,
+We're building a world where tech's in the sky.
 
->The dawn of November 24, 2023, a date to remember
-A new age of machine learning, an age that will bring us all however
-
+>Data-driven insights, faster
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
