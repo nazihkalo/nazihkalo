@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML, 2023
+>Title: The Future of Automation 
 
->We live in a world of AI and ML:
-Two technologies that set us free,
-From mundane tasks and manual toil,
-Giving us time for discovery.
+>November 26th, 2023 is a day to remember, 
+A day when machine learning changed our world forever. 
+Now that AI and automation are here, 
+The world will never be the same, I fear. 
 
->Our lives are shaped by this tech today,
-November 25, 2023, what a display!
-The power of AI, we can't deny,
-We're building a world where tech's in the sky.
-
->Data-driven insights, faster
+>The days of manual labor are long gone, 
+Replaced by robots that are ever so strong. 
+They can do the work faster and better, 
+Enabling us to
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
