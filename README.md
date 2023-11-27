@@ -5,17 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of Automation 
+>"The Future of AI"
 
->November 26th, 2023 is a day to remember, 
-A day when machine learning changed our world forever. 
-Now that AI and automation are here, 
-The world will never be the same, I fear. 
+>November 27, 2023, has arrived
+Bringing with it a great surprise
+Machine learning and Artificial Intelligence 
+A path to the future of the skies
 
->The days of manual labor are long gone, 
-Replaced by robots that are ever so strong. 
-They can do the work faster and better, 
-Enabling us to
+>From data analysis and image recognition 
+To autonomous vehicles without fear 
+AI has come a long way 
+In these twenty-three years
+
+>From the mundane to the complex
+AI is there in every task
+From the small to the big
+It's been a
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
