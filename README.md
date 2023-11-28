@@ -5,22 +5,21 @@
 <!-- daily_poem starts -->
 
 
->"The Future of AI"
+>Title:
+AI: Heralding a New Era
 
->November 27, 2023, has arrived
-Bringing with it a great surprise
-Machine learning and Artificial Intelligence 
-A path to the future of the skies
+>The first of November, twenty twenty-three
+A new era, we all could see
+Machine learning and AI 
+Would soon change the way life would be.
 
->From data analysis and image recognition 
-To autonomous vehicles without fear 
-AI has come a long way 
-In these twenty-three years
+>Robots that can think and play 
+On every surface, they'll have their say
+From everyday tasks to more complex ways 
+Machine learning will alter our days.
 
->From the mundane to the complex
-AI is there in every task
-From the small to the big
-It's been a
+>From cars to books, TVs and phones 
+AI will
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
