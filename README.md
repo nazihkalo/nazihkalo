@@ -5,21 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title:
-AI: Heralding a New Era
+>Title: The Age of Machine Learning and AI
 
->The first of November, twenty twenty-three
-A new era, we all could see
-Machine learning and AI 
-Would soon change the way life would be.
+>November twenty-ninth, two thousand twenty-three,
+A day that marks a major change we've seen.
+For machines have grown to learn and think,
+Giving rise to a new age of science and tech.
 
->Robots that can think and play 
-On every surface, they'll have their say
-From everyday tasks to more complex ways 
-Machine learning will alter our days.
-
->From cars to books, TVs and phones 
-AI will
+>Artificial intelligence, machine learning too,
+Give us power to control what we do.
+For with data we teach the machines new skills,
+Giving us insight to the world's mysteries and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 

@@ -7268,3 +7268,26 @@ It's been a
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### November 29 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title:
+AI: Heralding a New Era
+
+>The first of November, twenty twenty-three
+A new era, we all could see
+Machine learning and AI 
+Would soon change the way life would be.
+
+>Robots that can think and play 
+On every surface, they'll have their say
+From everyday tasks to more complex ways 
+Machine learning will alter our days.
+
+>From cars to books, TVs and phones 
+AI will
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
