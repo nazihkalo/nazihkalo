@@ -5,17 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title: The Age of Machine Learning and AI
+>Title: AI & ML in the Future
 
->November twenty-ninth, two thousand twenty-three,
-A day that marks a major change we've seen.
-For machines have grown to learn and think,
-Giving rise to a new age of science and tech.
+>A future of technology is drawing near
+AI and ML are growing by the year
 
->Artificial intelligence, machine learning too,
-Give us power to control what we do.
-For with data we teach the machines new skills,
-Giving us insight to the world's mysteries and
+>November 30th, 2023, a moment in time
+When AI and ML will be sublime
+
+>To make decisions, algorithms will have a say
+Changing the world in a brand new way
+
+>A world of automation is just in sight
+Where AI and ML will bring insight
+
+>This technological future will surely be grand
+Thanks to AI
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
