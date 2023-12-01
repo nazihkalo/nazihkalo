@@ -7310,3 +7310,27 @@ Giving us insight to the world's mysteries and
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
+### December 01 2023:
+
+<!-- daily_poem starts -->
+
+
+>Title: AI & ML in the Future
+
+>A future of technology is drawing near
+AI and ML are growing by the year
+
+>November 30th, 2023, a moment in time
+When AI and ML will be sublime
+
+>To make decisions, algorithms will have a say
+Changing the world in a brand new way
+
+>A world of automation is just in sight
+Where AI and ML will bring insight
+
+>This technological future will surely be grand
+Thanks to AI
+- 'Nazih `ChatGPT` Kalo'
+<!-- daily_poem ends -->
+
