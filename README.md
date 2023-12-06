@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: Brave New World
+>Machine Learning and AI: December 06 2023
 
->In the brave new world of December 05 2023,
-Machine learning and artificial intelligence have come.
-They enhance our lives in ways we've never seen,
-And our new dependence is second to none.
+>Oh what a world we have today,
+A world where machines do their own play.
+Where Artificial Intelligence rules the game,
+And Machine Learning is its name.
 
->Programs that think and learn on their own,
-Making decisions and analyzing data without rest.
-A testament to the human spirit and all it has grown,
-The future of ML and AI is truly the best.
+>Computers that can learn on their own,
+Analyzing data to become their own clone.
+So far they have come on this day,
+To take the world in a different way.
 
->From
+>Robots that can think for themselves,
+A
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
