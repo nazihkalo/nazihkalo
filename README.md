@@ -5,19 +5,17 @@
 <!-- daily_poem starts -->
 
 
->Title: A New Era of Understanding 
+>Title: AI and ML, The Future of Technology
 
->On December 07 2023, a bright new day
-All the numbers and algorithms come into play
-As we turn to the power of machine learning and AI
-We find a new way to comprehend life and why
+>We stand in awe as we gaze at the sky
+For it is December 08 the year 2023
+The future of technology, it doth nigh
+For it is AI and ML, our brilliant tech
 
->It's a new age, a new era of understanding
-Where data and code create a way to expand
-Using technology to automate and simplify
-We gain new insight into our lives with a single try
-
->With machine
+>Machines we have created, now so smart
+That we ourselves are just a mere part
+AI and ML, conquering task we thought hard
+For they are the future of technology, it's not just a
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
