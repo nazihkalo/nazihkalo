@@ -5,19 +5,21 @@
 <!-- daily_poem starts -->
 
 
->Title: Artificial Intelligence Surges Ahead
+>Title: AI and ML's Rise 
 
->We live in a world so strange,
-December 10 2023, a day so strange,
-Where machines and computers have taken the reins,
-Of what was once human learning and skills.
+>It's December 11, 2023 and a new era has come
+A world where AI and machine learning have won
 
->Artificial Intelligence is now surging ahead,
-It has taken over every task and lead,
-It can decipher the most complex of codes,
-And even predict the future of our abodes.
+>Robots and algorithms, the future has found
+A world that has forever changed all around
 
->Though we may be wary, and
+>Machines are efficient and learning more each day
+They know more than humans in so many ways
+
+>AI and ML have improved our lives in so many ways
+From automated driving to voice recognition plays
+
+>A
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
