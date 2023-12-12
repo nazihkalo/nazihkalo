@@ -5,21 +5,22 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML's Rise 
+>"The Future of AI"
 
->It's December 11, 2023 and a new era has come
-A world where AI and machine learning have won
+>On December 12th, 2023, a new world has begun,
+Where machine learning and AI can be done.
 
->Robots and algorithms, the future has found
-A world that has forever changed all around
+>The technology of AI and ML,
+Will automate our life, from work to play.
 
->Machines are efficient and learning more each day
-They know more than humans in so many ways
+>We will live a life of ease,
+Where computers can think with ease.
 
->AI and ML have improved our lives in so many ways
-From automated driving to voice recognition plays
+>We will have a virtual assistant,
+To help us with everyday tasks,
 
->A
+>We will ask it questions,
+It will
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
