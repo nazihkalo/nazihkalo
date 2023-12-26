@@ -5,22 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future of Man and Machine
+>Title: Technology's Advance
 
->No more worries of the unknown,
-On December 25, 2023,
-A world of man and machine,
-A new future has begun.
+>On this day, the 26th of December 2023
+We stand in awe before the machine's learning peak
+All around us, Artificial Intelligence's extent
+Leaves us both amazed, and feeling somewhat meek
 
->Artificial Intelligence so smart,
-Machine learning to its peak,
-The possibilities of what will start,
-Are impossible to seek.
+>From our phones to the medical field
+It helps us to make decisions that are real
+By taking vast amounts of data it can yield
+The results that help our future to seal
 
->Data scientists, the modern day heroes,
-Programmers' collective knowledge,
-Will show us what the future holds,
-For both
+>Machine Learning and AI will simplify our way
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
