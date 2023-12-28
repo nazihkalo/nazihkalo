@@ -5,16 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: AI and ML: The Future is Here
+>Title: Machine Intelligence of 2023
 
->It's December 27, 2023, and the world is new
-For Artificial Intelligence and Machine Learning have taken hold of the globe,
-Bringing about a technological breakthrough.
+>Our world has changed so much since this day,
+Dec 28, 2023, the dawn of a new age.
 
->No task too hard, no problem too tough
-All you need is your AI machine and you have plenty of stuff
-For it can automate, analyze, and do much more
-Aiding in our daily lives and opening up new doors.
+>It's no longer just man and machine,
+In this brave new world, they work side by side.
+
+>The power of machine learning and AI,
+Brings us all closer to a brighter day.
+
+>The data sets ever growing in size,
+Enable machines to think and to reason.
 
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
