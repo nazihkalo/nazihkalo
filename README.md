@@ -5,20 +5,19 @@
 <!-- daily_poem starts -->
 
 
->Title: Machine Intelligence of 2023
+>Today's Date: December 29 2023
 
->Our world has changed so much since this day,
-Dec 28, 2023, the dawn of a new age.
+>Title: Tech of the Future
 
->It's no longer just man and machine,
-In this brave new world, they work side by side.
+>Machine learning and artificial intelligence, 
+Making life easier and more effecient, 
+The tech of the future is so refined,
+It's surely changing the way we define
 
->The power of machine learning and AI,
-Brings us all closer to a brighter day.
-
->The data sets ever growing in size,
-Enable machines to think and to reason.
-
+>The world around us and what we do, 
+From self-driving cars to smart AI too, 
+Computers have brains and think for themselves,
+This tech is the wave of the future
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
