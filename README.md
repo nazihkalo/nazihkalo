@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Today's Date: December 29 2023
+>A Machine Learning Ode
 
->Title: Tech of the Future
+>Today's date, December 30 2023,
+A time for AI to make its mark,
+When Machine Learning leads the way,
+For all the wonders that come its way.
 
->Machine learning and artificial intelligence, 
-Making life easier and more effecient, 
-The tech of the future is so refined,
-It's surely changing the way we define
+>It learns from words and numbers too,
+And all the data it's put through,
+It's able to assess and analyze,
+Anything that's put before its eyes.
 
->The world around us and what we do, 
-From self-driving cars to smart AI too, 
-Computers have brains and think for themselves,
-This tech is the wave of the future
+>It is the language of the future,
+No longer will people have
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
