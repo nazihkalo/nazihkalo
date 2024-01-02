@@ -5,20 +5,20 @@
 <!-- daily_poem starts -->
 
 
->"The Dawn of Machine Learning"
+>"The Machines are Learning"
 
->On this day, January 01 2024,
-A new technology comes to view
-Our lives will be transformed, no more doubt,
-By artificial intelligence, no more bout.
+>We stand in awe of the machines' newfound power,
+On this day, January 02, 2024
+The world is revolutionized by AI and ML
+We've never known such a drastic hour 
 
->Machines will learn, and faster than us,
-Data will be processed with little fuss
-We can rely on them to be more efficient,
-For tasks and decisions, that they will be sent.
+>This technology is growing ever faster
+The changes cause our heads to spin
+We find new ways for computers to learn
+Knowing what they can do is a blessing and a sin 
 
->No longer will we have to ponder,
-
+>Though some fear the power and complexity
+It's
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
