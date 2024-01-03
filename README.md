@@ -5,20 +5,22 @@
 <!-- daily_poem starts -->
 
 
->"The Machines are Learning"
+>Title: The Age of AI
 
->We stand in awe of the machines' newfound power,
-On this day, January 02, 2024
-The world is revolutionized by AI and ML
-We've never known such a drastic hour 
+>It's the dawn of a new age
+January 03, 2024 takes the stage 
+As machine learning and AI 
+Reaches a level of profoundity
 
->This technology is growing ever faster
-The changes cause our heads to spin
-We find new ways for computers to learn
-Knowing what they can do is a blessing and a sin 
+>We live in a world of technology
+Where computers think and do with agility
+Where robots and drones fly in the sky
+And intelligent machines can think and try
 
->Though some fear the power and complexity
-It's
+>Artificial intelligence rules the day
+Where machines and computers can now display
+A level of intelligence and wit
+
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
