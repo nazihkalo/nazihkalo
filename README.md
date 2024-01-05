@@ -5,19 +5,19 @@
 <!-- daily_poem starts -->
 
 
->"The Machine Age Begins"
+>Title: The Future Age of ML and AI
 
->As the clock strikes zero four in the year 2024
-The dawn of the machine age begins anew
-The human world will never be quite the same
-As Artificial Intelligence takes its first few steps.
+>It is the dawn of a new age, the future of technology,
+On this day, January 05 2024, machine learning and AI can't be beat.
 
->The promise of Machine Learning is now here
-Computers think and solve problems with ease
-As the machines become ever smarter and more advanced
-We'll have the power to create a new world.
+>Innovative algorithms in the cloud,
+For internet of things, computers are proud.
 
->We'll have the power to change the
+>The deep learning models letting machines think,
+Can be used to solve problems without a blink.
+
+>From farming to industry, engineering to finance,
+Artificial
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
