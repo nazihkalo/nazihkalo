@@ -5,19 +5,20 @@
 <!-- daily_poem starts -->
 
 
->Title: The Future Age of ML and AI
+>Title: "The Sign of the Times"
 
->It is the dawn of a new age, the future of technology,
-On this day, January 05 2024, machine learning and AI can't be beat.
+>January 06, 2024, machines have come to life,
+A dawn of artificial intelligence,
+With programs that can learn and think
+A new era of technology in sight.
 
->Innovative algorithms in the cloud,
-For internet of things, computers are proud.
+>The power of machine learning,
+A technology that's leading the way,
+Analyzing data and making predictions
+In a smarter and faster way.
 
->The deep learning models letting machines think,
-Can be used to solve problems without a blink.
-
->From farming to industry, engineering to finance,
-Artificial
+>Humans may see AI as a threat,
+Curious of what it can do,
 - 'Nazih `ChatGPT` Kalo'
 <!-- daily_poem ends -->
 
